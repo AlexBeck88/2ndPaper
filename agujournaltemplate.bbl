@@ -1,8 +1,21 @@
-\begin{thebibliography}{0}
+\begin{thebibliography}{3}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
+
+\bibitem[{\textit{Beck et~al.}(2017)\textit{Beck, Henneberger, Sch\"opfer,
+  Fugal, and Lohmann}}]{bec17}
+Beck, A., J.~Henneberger, S.~Sch\"opfer, J.~Fugal, and U.~Lohmann (2017),
+  Hologondel, \textit{Atmos. Meas. Tech.}
+
+\bibitem[{\textit{Fugal}(2017)}]{Fug15}
+Fugal, J.~P. (2017), Holosuite, in preparation.
+
+\bibitem[{\textit{O. and J.}(2017)}]{Sch17}
+O., S., and F.~J. (2017), Microphysical properties of ice crystal precipitation
+  and surface-generated ice crystals in a high alpine environment in
+  switzerland, \textit{56}, 433--453, \doi{10.1175/JAMC-D-16-0060.1}.
 
 \end{thebibliography}
