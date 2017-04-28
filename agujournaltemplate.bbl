@@ -1,21 +1,155 @@
-\begin{thebibliography}{3}
+\begin{thebibliography}{23}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
 
+\bibitem[{\textit{Baumgardner et~al.}(2011)\textit{Baumgardner, Brenguier,
+  Bucholtz, Coe, DeMott, Garrett, Gayet, Hermann, Heymsfield, Korolev, Krämer,
+  Petzold, Strapp, Pilewskie, Taylor, Twohy, Wendisch, Bachalo, and
+  Chuang}}]{Bau10}
+Baumgardner, D., J.~Brenguier, A.~Bucholtz, H.~Coe, P.~DeMott, T.~Garrett,
+  J.~Gayet, M.~Hermann, A.~Heymsfield, A.~Korolev, M.~Krämer, A.~Petzold,
+  W.~Strapp, P.~Pilewskie, J.~Taylor, C.~Twohy, M.~Wendisch, W.~Bachalo, and
+  P.~Chuang (2011), Airborne instruments to measure atmospheric aerosol
+  particles, clouds and radiation: A cook's tour of mature and emerging
+  technology, \textit{Atmos. Res.}, \textit{102}(1–2), 10 -- 29,
+  \doi{10.1016/j.atmosres.2011.06.021}.
+
 \bibitem[{\textit{Beck et~al.}(2017)\textit{Beck, Henneberger, Sch\"opfer,
   Fugal, and Lohmann}}]{bec17}
 Beck, A., J.~Henneberger, S.~Sch\"opfer, J.~Fugal, and U.~Lohmann (2017),
   Hologondel, \textit{Atmos. Meas. Tech.}
 
+\bibitem[{\textit{Bromwich}(1988)}]{Bro88}
+Bromwich, D.~H. (1988), Snowfall in high southern latitudes, \textit{Reviews of
+  Geophysics}, \textit{26}(1), 149--168, \doi{10.1029/RG026i001p00149}.
+
+\bibitem[{\textit{D\'{e}ry and Yau}(1999)}]{Der99}
+D\'{e}ry, S.~J., and M.~K. Yau (1999), A climatology of adverse winter-type
+  weather events, \textit{Journal of Geophysical Research: Atmospheres},
+  \textit{104}(D14), 16,657--16,672, \doi{10.1029/1999JD900158}.
+
+\bibitem[{\textit{Farrington et~al.}(2015)\textit{Farrington, Connolly, Lloyd,
+  Bower, Flynn, Gallagher, Field, Dearden, and Choularton}}]{Far15}
+Farrington, R.~J., P.~J. Connolly, G.~Lloyd, K.~N. Bower, M.~J. Flynn, M.~W.
+  Gallagher, P.~R. Field, C.~Dearden, and T.~W. Choularton (2015), Comparing
+  model and measured ice crystal concentrations in orographic clouds during the
+  inupiaq campaign, \textit{Atmos. Chem. and Phys.}, \textit{15}(18),
+  25,647--25,694, \doi{10.5194/acpd-15-25647-2015}.
+
+\bibitem[{\textit{Field et~al.}(2017)\textit{Field, Lawson, Brown, Lloyd,
+  Westbrook, Moisseev, Miltenberger, Nenes, Blyth, Choularton, Connolly, Buehl,
+  Crosier, Cui, Dearden, DeMott, Flossmann, Heymsfield, Huang, Kalesse, Kanji,
+  Korolev, Kirchgaessner, Lasher-Trapp, Leisner, McFarquhar, Phillips, Stith,
+  and Sullivan}}]{Fie17}
+Field, P.~R., R.~P. Lawson, P.~R.~A. Brown, G.~Lloyd, C.~Westbrook,
+  D.~Moisseev, A.~Miltenberger, A.~Nenes, A.~Blyth, T.~Choularton, P.~Connolly,
+  J.~Buehl, J.~Crosier, Z.~Cui, C.~Dearden, P.~DeMott, A.~Flossmann,
+  A.~Heymsfield, Y.~Huang, H.~Kalesse, Z.~A. Kanji, A.~Korolev,
+  A.~Kirchgaessner, S.~Lasher-Trapp, T.~Leisner, G.~McFarquhar, V.~Phillips,
+  J.~Stith, and S.~Sullivan (2017), Secondary ice production: Current state of
+  the science and recommendations for the future, \textit{Meteorological
+  Monographs}, \textit{58}, 7.1--7.20, \doi{10.1175/AMSMONOGRAPHS-D-16-0014.1}.
+
 \bibitem[{\textit{Fugal}(2017)}]{Fug15}
 Fugal, J.~P. (2017), Holosuite, in preparation.
 
-\bibitem[{\textit{O. and J.}(2017)}]{Sch17}
-O., S., and F.~J. (2017), Microphysical properties of ice crystal precipitation
-  and surface-generated ice crystals in a high alpine environment in
-  switzerland, \textit{56}, 433--453, \doi{10.1175/JAMC-D-16-0060.1}.
+\bibitem[{\textit{Geerts et~al.}(2015)\textit{Geerts, Pokharel, and
+  Kristovich}}]{Gee15}
+Geerts, B., B.~Pokharel, and D.~a.~R. Kristovich (2015), {Blowing Snow as a
+  Natural Glaciogenic Cloud Seeding Mechanism}, \textit{Mon. Weather Rev.},
+  \textit{143}(12), 5017--5033, \doi{10.1175/MWR-D-15-0241.1}.
+
+\bibitem[{\textit{Hallet and Mossop}(1974)}]{Hal74}
+Hallet, J., and S.~Mossop (1974), Production of secondary ice particles during
+  the riming process, \textit{Nature}, \textit{249}, 26--28,
+  \doi{10.1038/249026a0}.
+
+\bibitem[{\textit{Lachlan-Cope et~al.}(2001)\textit{Lachlan-Cope, Ladkin,
+  Turner, and Davison}}]{Lac01}
+Lachlan-Cope, T., R.~Ladkin, J.~Turner, and P.~Davison (2001), Observations of
+  cloud and precipitation particles on the avery plateau, antarctic peninsula,
+  \textit{Antarctic Science}, \textit{13}(3), 339–348,
+  \doi{10.1017/S0954102001000475}.
+
+\bibitem[{\textit{Li and Pomeroy}(1997)}]{Li97}
+Li, L., and J.~W. Pomeroy (1997), Estimates of threshold wind speeds for snow
+  transport using meteorological data, \textit{Journal of Applied Meteorology},
+  \textit{36}(3), 205--213,
+  \doi{10.1175/1520-0450(1997)036<0205:EOTWSF>2.0.CO;2}.
+
+\bibitem[{\textit{Lloyd et~al.}(2015)\textit{Lloyd, Choularton, Bower,
+  Gallagher, Connolly, Flynn, Farrington, Crosier, Schlenczek, Fugal, and
+  Henneberger}}]{Loy15}
+Lloyd, G., T.~W. Choularton, K.~N. Bower, M.~W. Gallagher, P.~J. Connolly,
+  M.~Flynn, R.~Farrington, J.~Crosier, O.~Schlenczek, J.~Fugal, and
+  J.~Henneberger (2015), The origins of ice crystals measured in mixed-phase
+  clouds at the high-alpine site jungfraujoch, \textit{Atmos. Chem. Phys.},
+  \textit{15}(22), 12,953--12,969, \doi{10.5194/acp-15-12953-2015}.
+
+\bibitem[{\textit{Lohmann}(2002)}]{Loh02}
+Lohmann, U. (2002), Possible aerosol effects on ice clouds via contact
+  nucleation, \textit{Journal of the Atmospheric Sciences}, \textit{59}(3),
+  647--656, \doi{10.1175/1520-0469(2001)059<0647:PAEOIC>2.0.CO;2}.
+
+\bibitem[{\textit{Mahesh et~al.}(2003)\textit{Mahesh, Eager, Campbell, and
+  Spinhirne}}]{Mah03}
+Mahesh, A., R.~Eager, J.~R. Campbell, and J.~D. Spinhirne (2003), Observations
+  of blowing snow at the south pole, \textit{Journal of Geophysical Research:
+  Atmospheres}, \textit{108}(D22), n/a--n/a, \doi{10.1029/2002JD003327}, 4707.
+
+\bibitem[{\textit{Nishimura and Nemoto}(2005)}]{Nis05}
+Nishimura, K., and M.~Nemoto (2005), Blowing snow at mizuho station,
+  antarctica, \textit{Philosophical Transactions of the Royal Society of London
+  A: Mathematical, Physical and Engineering Sciences}, \textit{363}(1832),
+  1647--1662, \doi{10.1098/rsta.2005.1599}.
+
+\bibitem[{\textit{Rangno and Hobbs}(2001)}]{Ran01}
+Rangno, A.~L., and P.~V. Hobbs (2001), Ice particles in stratiform clouds in
+  the arctic and possible mechanisms for the production of high ice
+  concentrations, \textit{Journal of Geophysical Research: Atmospheres},
+  \textit{106}(D14), 15,065--15,075, \doi{10.1029/2000JD900286}.
+
+\bibitem[{\textit{Rogers and Vali}(1987)}]{Rog87}
+Rogers, D.~C., and G.~Vali (1987), Ice crystal production by mountain surfaces,
+  \textit{J. Clim. Appl. Meteorol.}, \textit{26}(9), 1152--1168,
+  \doi{10.1175/1520-0450(1987)026<1152:ICPBMS>2.0.CO;2}.
+
+\bibitem[{\textit{Rotunno and Houze}(2007)}]{Rot07}
+Rotunno, R., and R.~A. Houze (2007), Lessons on orographic precipitation from
+  the mesoscale alpine programme, \textit{Quarterly Journal of the Royal
+  Meteorological Society}, \textit{133}(625), 811--830, \doi{10.1002/qj.67}.
+
+\bibitem[{\textit{Schlenzeck and Fugal}(2017)}]{Sch17}
+Schlenzeck, O., and J.~Fugal (2017), Microphysical properties of ice crystal
+  precipitation and surface-generated ice crystals in a high alpine environment
+  in switzerland, \textit{esult}, \textit{56}, 433--453,
+  \doi{10.1175/JAMC-D-16-0060.1}.
+
+\bibitem[{\textit{Schmidt}(1982)}]{Sch82}
+Schmidt, R.~A. (1982), Vertical profiles of wind speed, snow concentration, and
+  humidity in blowing snow, \textit{Boundary-Layer Meteorology},
+  \textit{23}(2), 223--246, \doi{10.1007/BF00123299}.
+
+\bibitem[{\textit{Vali et~al.}(2012)\textit{Vali, Leon, and Snider}}]{Val12}
+Vali, G., D.~Leon, and J.~R. Snider (2012), Ground-layer snow clouds,
+  \textit{Quarterly Journal of the Royal Meteorological Society},
+  \textit{138}(667), 1507--1525, \doi{10.1002/qj.1882}.
+
+\bibitem[{\textit{Vionnet et~al.}(2013)\textit{Vionnet, Guyomarc’h, Bouvet,
+  Martin, Durand, Bellot, Bel, and Puglièse}}]{Vio13}
+Vionnet, V., G.~Guyomarc’h, F.~N. Bouvet, E.~Martin, Y.~Durand, H.~Bellot,
+  C.~Bel, and P.~Puglièse (2013), Occurrence of blowing snow events at an
+  alpine site over a 10-year period: Observations and modelling,
+  \textit{Advances in Water Resources}, \textit{55}, 53 -- 63,
+  \doi{http://doi.org/10.1016/j.advwatres.2012.05.004}, snow–Atmosphere
+  Interactions and Hydrological Consequences.
+
+\bibitem[{\textit{Yang and Yau}(2008)}]{Yan08}
+Yang, J., and M.~K. Yau (2008), A new triple-moment blowing snow model,
+  \textit{Boundary-Layer Meteorology}, \textit{126}(1), 137--155,
+  \doi{10.1007/s10546-007-9215-49}.
 
 \end{thebibliography}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.19)  21 APR 2017 14:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.19)  28 APR 2017 10:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -927,75 +927,543 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 9.0pt on input line 156.
  [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.5pt on input line 198.
+(Font)              scaled to size 10.5pt on input line 163.
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <10.5> not available
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 198.
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 163.
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.5pt on input line 198.
-LaTeX Font Info:    Try loading font information for TS1+ntxtlf on input line 2
-04.
+(Font)              scaled to size 10.5pt on input line 163.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 10.0pt on input line 164.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+
+Package natbib Warning: Citation `Llo15' on page 3 undefined on input line 168.
+
+
+
+Package natbib Warning: Citation `Pal01' on page 3 undefined on input line 170.
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+
+LaTeX Warning: Reference `' on page 4 undefined on input line 174.
+
+
+LaTeX Warning: Reference `summary' on page 4 undefined on input line 174.
+
+LaTeX Font Info:    Try loading font information for TS1+ntxtlf on input line 1
+81.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.0pt on input line 204.
+(Font)              scaled to size 10.0pt on input line 181.
 
-<SetUp.png, id=12, 696.39372pt x 241.95996pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+(./agujournaltemplate.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+Underfull \hbox (badness 2150) in paragraph at lines 93--96
+[]\T1/ntxtlf/m/n/10 Lohmann, U. (2002), Pos-si-ble aerosol ef-fects on ice clou
+ds via con-tact nu-cle- 
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 93--96
+\T1/ntxtlf/m/n/10 ation, \T1/ntxtlf/m/it/10 Jour-nal of the At-mo-spheric Sci-e
+nces\T1/ntxtlf/m/n/10 , \T1/ntxtlf/m/it/10 59\T1/ntxtlf/m/n/10 (3), 647--656, d
+oi:10.1175/1520- 
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 116--119
+[]\T1/ntxtlf/m/n/10 Rogers, D. C., and G. Vali (1987), Ice crys-tal pro-duc-tio
+n by moun-tain sur- 
+ []
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 116--119
+\T1/ntxtlf/m/n/10 faces, \T1/ntxtlf/m/it/10 J. Clim. Appl. Me-te-o-rol.\T1/ntxt
+lf/m/n/10 , \T1/ntxtlf/m/it/10 26\T1/ntxtlf/m/n/10 (9), 1152--1168, doi:10.1175
+/1520- 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+Underfull \hbox (badness 1194) in paragraph at lines 132--135
+[]\T1/ntxtlf/m/n/10 Schmidt, R. A. (1982), Ver-ti-cal pro-files of wind speed, 
+snow con-cen-tra-tion, and 
+ []
+
+) [9] <SetUp.png, id=39, 696.39372pt x 241.95996pt>
 File: SetUp.png Graphic file (type png)
  <use SetUp.png>
-Package pdftex.def Info: SetUp.png used on input line 208.
+Package pdftex.def Info: SetUp.png used on input line 250.
 (pdftex.def)             Requested size: 360.0pt x 125.08148pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <9> not available
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 209.
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 251.
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 9.0pt on input line 209.
+(Font)              scaled to size 9.0pt on input line 251.
 
-<tower.png, id=14, 213.4374pt x 284.5029pt>
+<tower.png, id=41, 213.4374pt x 284.5029pt>
 File: tower.png Graphic file (type png)
  <use tower.png>
-Package pdftex.def Info: tower.png used on input line 215.
+Package pdftex.def Info: tower.png used on input line 257.
 (pdftex.def)             Requested size: 120.0pt x 159.95868pt.
+
+<MeteoOvervire_0402.png, id=42, 569.12625pt x 842.4273pt>
+File: MeteoOvervire_0402.png Graphic file (type png)
+
+<use MeteoOvervire_0402.png>
+Package pdftex.def Info: MeteoOvervire_0402.png used on input line 264.
+(pdftex.def)             Requested size: 398.33858pt x 589.65652pt.
+
+Overfull \hbox (0.85359pt too wide) in paragraph at lines 264--265
+ [][] 
+ []
+
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 8.09995pt on input line 265.
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--265
+[]\T1/ntxtlf/b/n/9 Figure  3. \T1/ntxtlf/m/n/9 Overview of the me-te-o-ro-log-i
+-cal con-di-tions on 4 Febru-ary ob-tained from the SBO mea-sure-ments.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--265
+\T1/ntxtlf/m/n/9 Shown are the tem-per-a-ture, rel-a-tive hu-mid-ity (top), win
+d speed (sec-ond from top) and wind di-rec-tion (sec-ond
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--265
+\T1/ntxtlf/m/n/9 from bot-tom). All mea-sure-ments are 1[] av-er-ages ex-cept f
+or the max-i-mum wind speed, which cor-re-sponds to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--265
+\T1/ntxtlf/m/n/9 the max-i-mum wind speed ob-served dur-ing a cor-re-spond-ing 
+1[] av-er-age. A wind rose plot (bot-tom) of the
+ []
+
+
+LaTeX Warning: Float too large for page by 1.27151pt on input line 267.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.0pt on input line 221.
-[2 <./SetUp.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+<MeteoOverview_1702.png, id=43, 625.6173pt x 842.4273pt>
+File: MeteoOverview_1702.png Graphic file (type png)
 
- [3 <./tower.png>]
-Overfull \hbox (1.34776pt too wide) in paragraph at lines 252--253
-[]\T1/ntxtlf/m/n/10 On Febru-ary 17th only four pro-files were ob-tained dur-in
-g the en-tire day. The SONIC 
+<use MeteoOverview_1702.png>
+Package pdftex.def Info: MeteoOverview_1702.png used on input line 271.
+(pdftex.def)             Requested size: 398.33858pt x 536.4008pt.
+
+Overfull \hbox (0.85359pt too wide) in paragraph at lines 271--272
+ [][] 
  []
 
-(./agujournaltemplate.bbl) [4] (./agujournaltemplate.aux) ) 
-Here is how much of TeX's memory you used:
- 14417 strings out of 493089
- 280012 string characters out of 6134841
- 285554 words of memory out of 5000000
- 17718 multiletter control sequences out of 15000+600000
- 118091 words of font info for 124 fonts, out of 8000000 for 9000
- 1147 hyphenation exceptions out of 8191
- 41i,10n,39p,10396b,564s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/
-2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/local/texlive/2015/tex
-mf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/local/texlive/2015/texmf-dist/f
-onts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/local/texlive/2015/texmf-dist/fonts/t
-ype1/public/tex-gyre/qhvr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/p
-ublic/tex-gyre/qtmb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
-tex-gyre/qtmr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/tex-gy
-re/qtmri.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/t1x
-tt.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/txsy.pfb>
 
-Output written on agujournaltemplate.pdf (4 pages, 3271827 bytes).
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+[]\T1/ntxtlf/b/n/9 Figure  4. \T1/ntxtlf/m/n/9 Overview on the me-te-o-ro-log-i
+-cal con-di-tions on 17 Febru-ary. On this day tem-per-a-ture and wind
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\T1/ntxtlf/m/n/9 mea-sure-ments are avail-able from the SBO and the Hol-o-Gonde
+l plat-form. Shown are the tem-per-a-ture (Hol-o-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\T1/ntxtlf/m/n/9 Gondel and SBO), rel-a-tive hu-mid-ity (top), wind di-rec-tion
+ (sec-ond from top), a com-par-i-son of the hor-i-zon-tal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\T1/ntxtlf/m/n/9 wind speed (mid-dle) and de-tailed wind speed mea-sure-ments f
+rom the Hol-o-Gondel plat-form (sec-ond from bot-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\T1/ntxtlf/m/n/9 tom). A win-drose plot is shown in the bot-tom panel. Wind mea
+-sure-ments from the SBO and the Hol-o-Gondel
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<0402_Total.png, id=44, 682.8712pt x 341.4356pt>
+File: 0402_Total.png Graphic file (type png)
+ <use 0402_Total.png>
+Package pdftex.def Info: 0402_Total.png used on input line 278.
+(pdftex.def)             Requested size: 398.33858pt x 199.17374pt.
+
+Overfull \hbox (0.85359pt too wide) in paragraph at lines 278--279
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--279
+[]\T1/ntxtlf/b/n/9 Figure  5. \T1/ntxtlf/m/n/9 Ice crys-tal num-ber con-cen-tra
+-tion as a func-tion of the height of the el-e-va-tor at the me-te-o-ro-log-i-c
+al
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--279
+\T1/ntxtlf/m/n/9 tower of the SBO. This plot is a sum-mary of the 24 pro-files 
+ob-tained on 4 Febru-ary. The data was av-er-aged
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--279
+\T1/ntxtlf/m/n/9 over the en-tire time pe-riod of sin-gle mea-sure-ments at the
+ dif-fer-ent height. The num-ber in brack-ets is the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--279
+\T1/ntxtlf/m/n/9 num-ber of mea-sure-ments points, i.e. the num-ber of mea-sure
+-ments, at the dif-fer-ent heights. For each box, the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--279
+\T1/ntxtlf/m/n/9 cen-tral line marks the me-dian value of the mea-sure-ment and
+ the left and right edges of the box rep-re-sent 25th
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--279
+\T1/ntxtlf/m/n/9 and the 75th per-centiles re-spec-tively. The whiskers ex-tend
+ to min-i-mum and max-i-mum of the data; out-liers are
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<0402_Overview.png, id=45, 796.4154pt x 842.4273pt>
+File: 0402_Overview.png Graphic file (type png)
+ <use 0402_Overview.png>
+Package pdftex.def Info: 0402_Overview.png used on input line 285.
+(pdftex.def)             Requested size: 398.33858pt x 421.35402pt.
+
+Overfull \hbox (0.85359pt too wide) in paragraph at lines 285--286
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
+[]\T1/ntxtlf/b/n/9 Figure  6. \T1/ntxtlf/m/n/9 Ice crys-tal num-ber con-cen-tra
+-tion as a func-tion of the height of the el-e-va-tor at the me-te-o-ro-log-i-c
+al
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
+\T1/ntxtlf/m/n/9 tower of the SBO for four dif-fer-ent timer in-ter-vals dur-in
+g 4 Febru-ary, rep-re-sent-ing dif-fer-ent me-te-o-ro-log-i-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
+\T1/ntxtlf/m/n/9 con-di-tions (Fig. 3[]). The in-di-vid-ual pro-files (left) ar
+e a rep-re-sen-ta-tion for the dif-fer-ent time in-ter-vals. The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
+\T1/ntxtlf/m/n/9 cir-cles in-di-cate the mean value av-er-aged over the en-tire
+ time in-ter-val. The er-ror bars rep-re-sent the stan-dard
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
+\T1/ntxtlf/m/n/9 er-ror of the mean. The shaded area in-di-cates the vari-abil-
+ity of the data and ex-tends from the min-i-mum to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
+\T1/ntxtlf/m/n/9 the max-i-mum when the data is av-er-aged over 50 holo-grams. 
+For the sum-mary of the dif-fer-ent time in-ter-vals
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
+\T1/ntxtlf/m/n/9 (right) the data is av-er-aged over 50 holo-grams. For each bo
+x, the cen-tral line marks the me-dian value of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
+\T1/ntxtlf/m/n/9 mea-sure-ment and the left and right edges of the box rep-re-s
+ent 25th and the 75th per-centiles re-spec-tively. The
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<0402_WSMax.png, id=46, 682.8712pt x 341.4356pt>
+File: 0402_WSMax.png Graphic file (type png)
+ <use 0402_WSMax.png>
+Package pdftex.def Info: 0402_WSMax.png used on input line 292.
+(pdftex.def)             Requested size: 398.33858pt x 199.17374pt.
+
+Overfull \hbox (0.85359pt too wide) in paragraph at lines 292--293
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--293
+[]\T1/ntxtlf/b/n/9 Figure  7. \T1/ntxtlf/m/n/9 Ice crys-tal num-ber con-cen-tra
+-tion as a func-tion of ver-ti-cal wind speed. This plot is a sum-mary of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--293
+\T1/ntxtlf/m/n/9 the en-tire data ob-tained on 4 Febru-ary. The data was av-er-
+aged over 50 holo-grams and cat-e-go-rized in 2[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--293
+\T1/ntxtlf/m/n/9 wind speed in-ter-vals. The wind speeds are one minute av-er-a
+ges from the SBO. The num-ber in brack-ets is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--293
+\T1/ntxtlf/m/n/9 the num-ber of mea-sure-ments points, i.e. the num-ber of mea-
+sure-ments, ob-tained for the dif-fer-ent wind speed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--293
+\T1/ntxtlf/m/n/9 in-ter-vals. For each box, the cen-tral line marks the me-dian
+ value of the mea-sure-ment and the left and right
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--293
+\T1/ntxtlf/m/n/9 edges of the box rep-re-sent 25th and the 75th per-centiles re
+-spec-tively. The whiskers ex-tend to min-i-mum and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--293
+\T1/ntxtlf/m/n/9 max-i-mum of the data; out-liers are marked as red pluses. The
+ mean value of the mea-sure-ments is in-di-cated as
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<1702_Overview.png, id=47, 796.6563pt x 284.5029pt>
+File: 1702_Overview.png Graphic file (type png)
+ <use 1702_Overview.png>
+Package pdftex.def Info: 1702_Overview.png used on input line 299.
+(pdftex.def)             Requested size: 398.33858pt x 142.25978pt.
+
+Overfull \hbox (0.85359pt too wide) in paragraph at lines 299--300
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--300
+[]\T1/ntxtlf/b/n/9 Figure  8. \T1/ntxtlf/m/n/9 Ice crys-tal num-ber con-cen-tra
+-tion as a func-tion of the height of the el-e-va-tor at the me-te-o-ro-log-i-c
+al
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--300
+\T1/ntxtlf/m/n/9 tower of the SBO for 17 Febru-ary. On the left are the three i
+n-di-vid-ual pro-files ob-tained in cloud. The cir-cles
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--300
+\T1/ntxtlf/m/n/9 in-di-cate the mean value av-er-aged over the en-tire time in-
+ter-val. The er-ror bars rep-re-sent the stan-dard er-ror of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--300
+\T1/ntxtlf/m/n/9 the mean. The shaded area in-di-cates the vari-abil-ity of the
+ data and ex-tends from the min-i-mum to the max-i-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--300
+\T1/ntxtlf/m/n/9 mum when the data is av-er-aged over 50 holo-grams. For the su
+m-mary of the dif-fer-ent time in-ter-vals (right) the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--300
+\T1/ntxtlf/m/n/9 data is av-er-aged over 50 holo-grams. For each box, the cen-t
+ral line marks the me-dian value of the mea-sure-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--300
+\T1/ntxtlf/m/n/9 and the left and right edges of the box rep-re-sent 25th and t
+he 75th per-centiles re-spec-tively. The whiskers
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<1702_OverviewWS.png, id=48, 853.62915pt x 569.0058pt>
+File: 1702_OverviewWS.png Graphic file (type png)
+
+<use 1702_OverviewWS.png>
+Package pdftex.def Info: 1702_OverviewWS.png used on input line 306.
+(pdftex.def)             Requested size: 398.33858pt x 265.51396pt.
+
+Overfull \hbox (0.85359pt too wide) in paragraph at lines 306--307
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--307
+[]\T1/ntxtlf/b/n/9 Figure  9. \T1/ntxtlf/m/n/9 As Fig-ure 7[] only for 17 Febru
+-ary and four dif-fer-ent wind speed mea-sure-ments: a) one minute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--307
+\T1/ntxtlf/m/n/9 av-er-ages of the hor-i-zon-tal wind speed from the SBO, b) ma
+x-i-mum wind speed of the a cor-re-spond-ing time
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--307
+\T1/ntxtlf/m/n/9 in-ter-val in a), c) sec-ondly av-er-ages of the hor-i-zon-tal
+ wind speed and d) sec-ondly av-er-age of the ver-ti-cal wind
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<1702_habitsHeight.png, id=49, 796.4154pt x 842.4273pt>
+File: 1702_habitsHeight.png Graphic file (type png)
+
+<use 1702_habitsHeight.png>
+Package pdftex.def Info: 1702_habitsHeight.png used on input line 313.
+(pdftex.def)             Requested size: 398.33858pt x 421.35402pt.
+
+Overfull \hbox (0.85359pt too wide) in paragraph at lines 313--314
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--314
+[]\T1/ntxtlf/b/n/9 Figure  10. \T1/ntxtlf/m/n/9 Ver-ti-cal pro-files of the con
+-cen-tra-tion (left) and the rel-a-tive im-por-tance (right) of the sub-clas-si
+-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--314
+\T1/ntxtlf/m/n/9 fied ice crys-tal habits: reg-u-lar, ir-reg-u-lar and ag-gre-g
+ates. For the rel-a-tive im-por-tance the num-ber of ice crys-tals
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--314
+\T1/ntxtlf/m/n/9 of dif-fer-ent habits were di-vided by the to-tal num-ber of i
+ce crys-tals. For the-ses plots the data as av-er-aged
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--314
+\T1/ntxtlf/m/n/9 over 50 holo-grams. In both cases the cir-cles rep-re-sent the
+ mean of the 50 holo-gram av-er-ages. The er-ror bars
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<1702_habitswWS.png, id=50, 426.75435pt x 569.0058pt>
+File: 1702_habitswWS.png Graphic file (type png)
+ <use 1702_habitswWS.png>
+Package pdftex.def Info: 1702_habitswWS.png used on input line 320.
+(pdftex.def)             Requested size: 398.33858pt x 531.11476pt.
+
+Overfull \hbox (0.85359pt too wide) in paragraph at lines 320--321
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+[]\T1/ntxtlf/b/n/9 Figure  11. \T1/ntxtlf/m/n/9 As Fig-ure 7[] only for 17 Febr
+u-ary and dif-fer-ent ice crys-tal habits as a func-tion of the ver-ti-cal
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10 <./SetUp.png> <./tower.png>] [11 <./MeteoOvervire_0402.png (PNG copy)>]
+[12 <./MeteoOverview_1702.png (PNG copy)>] [13 <./0402_Total.png (PNG copy)>]
+[14 <./0402_Overview.png (PNG copy)>] [15 <./0402_WSMax.png (PNG copy)> <./1702
+_Overview.png (PNG copy)>] [16 <./1702_OverviewWS.png (PNG copy)>] [17 <./1702_
+habitsHeight.png (PNG copy)>] [18 <./1702_habitswWS.png (PNG copy)>]
+
+Package natbib Warning: There were undefined citations.
+
+(./agujournaltemplate.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 14551 strings out of 493089
+ 282170 string characters out of 6134841
+ 291285 words of memory out of 5000000
+ 17839 multiletter control sequences out of 15000+600000
+ 125836 words of font info for 136 fonts, out of 8000000 for 9000
+ 1147 hyphenation exceptions out of 8191
+ 41i,12n,39p,10396b,794s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/
+local/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/local/tex
+live/2015/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/local/texlive/2
+015/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb></usr/local/texlive/2015/te
+xmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr/local/texlive/2015/texmf-di
+st/fonts/type1/public/tex-gyre/qtmr.pfb></usr/local/texlive/2015/texmf-dist/fon
+ts/type1/public/tex-gyre/qtmri.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
+pe1/public/txfonts/rtxmi.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
+blic/txfonts/t1xtt.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/t
+xfonts/txsy.pfb>
+Output written on agujournaltemplate.pdf (18 pages, 12029884 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 109 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
