@@ -1,51 +1,7 @@
-This is BibTeX, Version 0.99d (TeX Live 2015)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: agujournaltemplate.aux
+This is BibTeX, Version 0.99dThe top-level auxiliary file: agujournaltemplate.aux
 The style file: agufull08.bst
 Database file #1: jabref_database.bib
 Warning--I didn't find a database entry for "Llo15"
 Warning--I didn't find a database entry for "Pal01"
-Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty journal in Fug15
-You've used 23 entries,
-            3076 wiz_defined-function locations,
-            1271 strings with 14566 characters,
-and the built_in function-call counts, 26620 in all, are:
-= -- 2981
-> -- 987
-< -- 13
-+ -- 436
-- -- 277
-* -- 1690
-:= -- 2468
-add.period$ -- 23
-call.type$ -- 23
-change.case$ -- 104
-chr.to.int$ -- 24
-cite$ -- 24
-duplicate$ -- 2950
-empty$ -- 1396
-format.name$ -- 355
-if$ -- 5293
-int.to.chr$ -- 1
-int.to.str$ -- 1
-missing$ -- 277
-newline$ -- 76
-num.names$ -- 92
-pop$ -- 956
-preamble$ -- 1
-purify$ -- 78
-quote$ -- 0
-skip$ -- 1639
-stack$ -- 0
-substring$ -- 1231
-swap$ -- 2613
-text.length$ -- 0
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 207
-warning$ -- 1
-while$ -- 123
-width$ -- 0
-write$ -- 280
 (There were 3 warnings)
