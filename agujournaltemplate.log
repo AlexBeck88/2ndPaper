@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.24)  3 MAY 2017 11:29
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.19)  28 APR 2017 13:18
+>>>>>>> Stashed changes
 entering extended mode
 **./agujournaltemplate.tex
 (agujournaltemplate.tex
@@ -1591,7 +1595,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 335--335
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [10 <./SetUp.png> <./tower.png>] [11 <./MeteoOvervire_0402.png (PNG copy)>]
+<<<<<<< Updated upstream
 [12 <./MeteoOverview_1702.png (PNG copy)
 !pdfTeX error: pdflatex.exe (file ./MeteoOverview_1702.png): writepng: reading 
 chunk type failed
  ==> Fatal error occurred, no output PDF file produced!
+=======
+[12 <./MeteoOverview_1702.png (PNG copy)>] [13 <./0402_Total.png (PNG copy)>]
+[14 <./0402_Overview.png (PNG copy)>] [15 <./0402_WSMax.png (PNG copy)> <./1702
+_Overview.png (PNG copy)>] [16 <./1702_OverviewWS.png (PNG copy)>] [17 <./1702_
+habitsHeight.png (PNG copy)>] [18 <./1702_habitswWS.png (PNG copy)>]
+
+Package natbib Warning: There were undefined citations.
+
+(./agujournaltemplate.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 14551 strings out of 493089
+ 282170 string characters out of 6134841
+ 291285 words of memory out of 5000000
+ 17839 multiletter control sequences out of 15000+600000
+ 125836 words of font info for 136 fonts, out of 8000000 for 9000
+ 1147 hyphenation exceptions out of 8191
+ 41i,12n,39p,10396b,794s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/
+local/texlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/local/tex
+live/2015/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/local/texlive/2
+015/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb></usr/local/texlive/2015/te
+xmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr/local/texlive/2015/texmf-di
+st/fonts/type1/public/tex-gyre/qtmr.pfb></usr/local/texlive/2015/texmf-dist/fon
+ts/type1/public/tex-gyre/qtmri.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
+pe1/public/txfonts/rtxmi.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
+blic/txfonts/t1xtt.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/t
+xfonts/txsy.pfb>
+Output written on agujournaltemplate.pdf (18 pages, 12068682 bytes).
+PDF statistics:
+ 109 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+>>>>>>> Stashed changes

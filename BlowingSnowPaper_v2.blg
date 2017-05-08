@@ -1,5 +1,49 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: BlowingSnowPaper_v2.aux
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: BlowingSnowPaper_v2.aux
 The style file: agufull08.bst
 Database file #1: jabref_database.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty journal in Fug15
+You've used 26 entries,
+            3076 wiz_defined-function locations,
+            1293 strings with 15076 characters,
+and the built_in function-call counts, 29849 in all, are:
+= -- 3376
+> -- 1063
+< -- 15
++ -- 472
+- -- 298
+* -- 1875
+:= -- 2751
+add.period$ -- 26
+call.type$ -- 26
+change.case$ -- 116
+chr.to.int$ -- 27
+cite$ -- 27
+duplicate$ -- 3317
+empty$ -- 1579
+format.name$ -- 383
+if$ -- 5951
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 306
+newline$ -- 85
+num.names$ -- 104
+pop$ -- 1045
+preamble$ -- 1
+purify$ -- 87
+quote$ -- 0
+skip$ -- 1892
+stack$ -- 0
+substring$ -- 1394
+swap$ -- 2939
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 231
+warning$ -- 1
+while$ -- 142
+width$ -- 0
+write$ -- 317
 (There was 1 warning)
