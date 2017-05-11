@@ -1,0 +1,1584 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.24)  11 MAY 2017 18:01
+entering extended mode
+**./BlowingSnowPaper_v3.tex
+(BlowingSnowPaper_v3.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+(agujournal.cls
+Document Class: agujournal 08/06/2016
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\newtx\newtxtext.s
+ty"
+Package: newtxtext 2017/03/11 v1.521
+
+`newtxtext' v1.521, 2017/03/11 Text macros taking advantage of TeX-Gyre Termes 
+fonts (msharpe)
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fontaxes\fontaxes
+.sty"
+Package: fontaxes 2014/03/23 v1.0d Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \scshape on input line 37.
+)
+\ntx@fs=\dimen102
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.s
+ty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval
+.tex"
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutil
+s.tex"
+\XKV@toks=\toks14
+\XKV@tempa@toks=\toks15
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\keyval.
+tex"))
+\XKV@depth=\count79
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox
+.sty"
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count80
+)
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)) ("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.
+sty"
+Package: textcomp 2016/06/19 v1.99m Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+Package textcomp Info: Changing ? sub-encoding to TS1/0 on input line 80.
+ ("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+))
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\newtx\newtxmath.s
+ty"
+Package: newtxmath 2017/02/12 v1.518
+ `newtxmath' v1.518, 2017/02/12 Math macros based on txfonts (msharpe)
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.s
+ty"
+Package: amsmath 2016/06/28 v2.15d AMS math features
+\@mathmargin=\skip41
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.s
+ty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.st
+y"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen103
+))
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.st
+y"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count81
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count82
+\leftroot@=\count83
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count84
+\DOTSCASE@=\count85
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count86
+\c@MaxMatrixCols=\count87
+\dotsspace@=\muskip10
+\c@parentequation=\count88
+\dspbrk@lvl=\count89
+\tag@help=\toks17
+\row@=\count90
+\column@=\count91
+\maxfields@=\count92
+\andhelp@=\toks18
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks19
+\multlinegap=\skip42
+\multlinetaggap=\skip43
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex
+.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluat
+ex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\generic\binhex\binhex.t
+ex")
+\tx@Isdigit=\count93
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 153.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ntxtlf/m/n on input line 153.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/m/n on input line 153.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/ntxtlf/m/n --> OT1/ntxtlf/b/n on input line 154.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 160.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/qhv/m/n on input line 160.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/qhv/m/n on input line 160.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 161.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ntxtlf/m/it on input line 161.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ntxtlf/m/it on input line 161.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 162.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/ntxtt/m/n on input line 162.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/ntxtt/m/n on input line 162.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 164.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/b/n on input line 164.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ntxtlf/b/n on input line 164.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/ntxtlf/m/it --> OT1/ntxtlf/b/it on input line 165.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/qhv/m/n --> T1/qhv/b/n on input line 166.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/ntxtt/m/n --> T1/ntxtt/b/n on input line 167.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 218.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ntxmi/m/it on input line 218.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ntxmi/m/it on input line 218.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/ntxmi/m/it --> OML/ntxmi/b/it on input line 219.
+\symlettersA=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 235.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 256.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 256.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 256.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 256.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 256.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 257.
+\symAMSm=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 280.
+\symsymbolsC=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 301.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 314.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 3
+14.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 314.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 314
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 314.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 315.
+\symlargesymbolsTXA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
+
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 329.
+LaTeX Font Info:    Redeclaring math delimiter \lgroup on input line 500.
+LaTeX Font Info:    Redeclaring math delimiter \rgroup on input line 501.
+LaTeX Font Info:    Redeclaring math delimiter \lmoustache on input line 502.
+LaTeX Font Info:    Redeclaring math delimiter \rmoustache on input line 503.
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 509.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 510.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 511.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 512.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 513.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 514.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 515.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 517.
+LaTeX Font Info:    Redeclaring math symbol \mid on input line 519.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 521.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 522.
+LaTeX Font Info:    Redeclaring math symbol \parallel on input line 523.
+LaTeX Font Info:    Redeclaring math delimiter \Arrowvert on input line 524.
+LaTeX Font Info:    Redeclaring math delimiter \Vert on input line 525.
+LaTeX Font Info:    Redeclaring math delimiter \updownarrow on input line 527.
+LaTeX Font Info:    Redeclaring math delimiter \Updownarrow on input line 528.
+LaTeX Font Info:    Redeclaring math delimiter \lvert on input line 533.
+LaTeX Font Info:    Redeclaring math delimiter \rvert on input line 534.
+LaTeX Font Info:    Redeclaring math delimiter \lVert on input line 535.
+LaTeX Font Info:    Redeclaring math delimiter \rVert on input line 536.
+LaTeX Info: Redefining \not on input line 2099.
+)
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx
+.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics
+.sty"
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graphics
+.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdft
+ex.def"
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwar
+err.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmd
+s.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count94
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\color.cf
+g"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lineno\lineno.sty
+"
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count95
+\output=\toks21
+\linenoprevgraf=\count96
+\linenumbersep=\dimen114
+\linenumberwidth=\dimen115
+\c@linenumber=\count97
+\c@pagewiselinenumber=\count98
+\c@LN@truepage=\count99
+\c@internallinenumber=\count100
+\c@internallinenumbers=\count101
+\quotelinenumbersep=\dimen116
+\bframerule=\dimen117
+\bframesep=\dimen118
+\bframebox=\box28
+LaTeX Info: Redefining \\ on input line 3056.
+)
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\indentfirst
+.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everysel.sty"
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip44
+\RaggedLeftLeftskip=\skip45
+\RaggedRightLeftskip=\skip46
+\CenteringRightskip=\skip47
+\RaggedLeftRightskip=\skip48
+\RaggedRightRightskip=\skip49
+\CenteringParfillskip=\skip50
+\RaggedLeftParfillskip=\skip51
+\RaggedRightParfillskip=\skip52
+\JustifyingParfillskip=\skip53
+\CenteringParindent=\skip54
+\RaggedLeftParindent=\skip55
+\RaggedRightParindent=\skip56
+\JustifyingParindent=\skip57
+)
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\rotating
+.sty"
+Package: rotating 2016/05/22 v2.16c rotated objects in LaTeX
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count102
+\rotFPtop=\skip58
+\rotFPbot=\skip59
+\rot@float@box=\box29
+\rot@mess@toks=\toks22
+) ("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ulem\ulem.sty"
+\UL@box=\box30
+\UL@hyphenbox=\box31
+\UL@skip=\skip60
+\UL@hook=\toks23
+\UL@height=\dimen119
+\UL@pe=\count103
+\UL@pixel=\dimen120
+\ULC@box=\box32
+Package: ulem 2012/05/18
+\ULdepth=\dimen121
+)
+\draftskip=\count104
+\c@section=\count105
+\c@subsection=\count106
+\c@subsubsection=\count107
+\c@paragraph=\count108
+\c@subparagraph=\count109
+\c@figure=\count110
+\c@table=\count111
+\abovecaptionskip=\skip61
+\belowcaptionskip=\skip62
+\c@appendnum=\count112
+\bibindent=\dimen122
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\natbib\natbib.sty
+"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip63
+\bibsep=\skip64
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count113
+)
+\refchangenumber=\count114
+\listchangenum=\count115
+)
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx.s
+ty"
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.st
+y"
+Package: expl3 2017/04/01 L3 programming layer (loader) 
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3-co
+de.tex"
+Package: expl3 2017/04/01 L3 programming layer (code)
+\c_max_int=\count116
+\l_tmpa_int=\count117
+\l_tmpb_int=\count118
+\g_tmpa_int=\count119
+\g_tmpb_int=\count120
+\g__prg_map_int=\count121
+\c_log_iow=\count122
+\l_iow_line_count_int=\count123
+\l__iow_line_target_int=\count124
+\l__iow_one_indent_int=\count125
+\l__iow_indent_int=\count126
+\c_zero_dim=\dimen123
+\c_max_dim=\dimen124
+\l_tmpa_dim=\dimen125
+\l_tmpb_dim=\dimen126
+\g_tmpa_dim=\dimen127
+\g_tmpb_dim=\dimen128
+\c_zero_skip=\skip65
+\c_max_skip=\skip66
+\l_tmpa_skip=\skip67
+\l_tmpb_skip=\skip68
+\g_tmpa_skip=\skip69
+\g_tmpb_skip=\skip70
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+\l_keys_choice_int=\count127
+\c__fp_leading_shift_int=\count128
+\c__fp_middle_shift_int=\count129
+\c__fp_trailing_shift_int=\count130
+\c__fp_big_leading_shift_int=\count131
+\c__fp_big_middle_shift_int=\count132
+\c__fp_big_trailing_shift_int=\count133
+\c__fp_Bigg_leading_shift_int=\count134
+\c__fp_Bigg_middle_shift_int=\count135
+\c__fp_Bigg_trailing_shift_int=\count136
+\c__fp_rand_size_int=\count137
+\c__fp_rand_four_int=\count138
+\c__fp_rand_eight_int=\count139
+\l__sort_length_int=\count140
+\l__sort_min_int=\count141
+\l__sort_top_int=\count142
+\l__sort_max_int=\count143
+\l__sort_true_max_int=\count144
+\l__sort_block_int=\count145
+\l__sort_begin_int=\count146
+\l__sort_end_int=\count147
+\l__sort_A_int=\count148
+\l__sort_B_int=\count149
+\l__sort_C_int=\count150
+\c_empty_box=\box33
+\l_tmpa_box=\box34
+\l_tmpb_box=\box35
+\g_tmpa_box=\box36
+\g_tmpb_box=\box37
+\l__coffin_internal_box=\box38
+\l__coffin_internal_dim=\dimen129
+\l__coffin_offset_x_dim=\dimen130
+\l__coffin_offset_y_dim=\dimen131
+\l__coffin_x_dim=\dimen132
+\l__coffin_y_dim=\dimen133
+\l__coffin_x_prime_dim=\dimen134
+\l__coffin_y_prime_dim=\dimen135
+\c_empty_coffin=\box39
+\l__coffin_aligned_coffin=\box40
+\l__coffin_aligned_internal_coffin=\box41
+\l_tmpa_coffin=\box42
+\l_tmpb_coffin=\box43
+\l__coffin_display_coffin=\box44
+\l__coffin_display_coord_coffin=\box45
+\l__coffin_display_pole_coffin=\box46
+\l__coffin_display_offset_dim=\dimen136
+\l__coffin_display_x_dim=\dimen137
+\l__coffin_display_y_dim=\dimen138
+\l__box_top_dim=\dimen139
+\l__box_bottom_dim=\dimen140
+\l__box_left_dim=\dimen141
+\l__box_right_dim=\dimen142
+\l__box_top_new_dim=\dimen143
+\l__box_bottom_new_dim=\dimen144
+\l__box_left_new_dim=\dimen145
+\l__box_right_new_dim=\dimen146
+\l__box_internal_box=\box47
+\l__coffin_bounding_shift_dim=\dimen147
+\l__coffin_left_corner_dim=\dimen148
+\l__coffin_right_corner_dim=\dimen149
+\l__coffin_bottom_corner_dim=\dimen150
+\l__coffin_top_corner_dim=\dimen151
+\l__coffin_scaled_total_height_dim=\dimen152
+\l__coffin_scaled_width_dim=\dimen153
+)
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmod
+e.def"
+File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count151
+\l__driver_tmp_box=\box48
+))
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse
+\xparse.sty"
+Package: xparse 2017/04/01 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count152
+\g__xparse_grabber_int=\count153
+\l__xparse_m_args_int=\count154
+\l__xparse_mandatory_args_int=\count155
+\l__xparse_v_nesting_int=\count156
+)
+Package: siunitx 2017/03/23 v2.7f A comprehensive (SI) units package
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen154
+\extrarowheight=\dimen155
+\NC@list=\toks24
+\extratabsurround=\skip71
+\backup@length=\skip72
+)
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\l3keys
+2e\l3keys2e.sty"
+Package: l3keys2e 2017/04/01 LaTeX2e option processing using LaTeX3 keys
+)
+\l__siunitx_tmp_box=\box49
+\l__siunitx_tmp_dim=\dimen156
+\l__siunitx_tmp_int=\count157
+\l__siunitx_number_mantissa_length_int=\count158
+\l__siunitx_number_uncert_length_int=\count159
+\l__siunitx_round_int=\count160
+\l__siunitx_process_decimal_int=\count161
+\l__siunitx_process_uncertainty_int=\count162
+\l__siunitx_process_fixed_int=\count163
+\l__siunitx_process_integer_min_int=\count164
+\l__siunitx_process_precision_int=\count165
+\l__siunitx_group_min_int=\count166
+\l__siunitx_angle_marker_box=\box50
+\l__siunitx_angle_unit_box=\box51
+\l__siunitx_angle_marker_dim=\dimen157
+\l__siunitx_angle_unit_dim=\dimen158
+\l__siunitx_unit_int=\count167
+\l__siunitx_unit_denominator_int=\count168
+\l__siunitx_unit_numerator_int=\count169
+\l__siunitx_unit_prefix_int=\count170
+\l__siunitx_unit_prefix_base_int=\count171
+\l__siunitx_unit_prefix_gram_int=\count172
+\l__siunitx_number_product_int=\count173
+\c__siunitx_one_fill_skip=\skip73
+\l__siunitx_table_unit_align_skip=\skip74
+\l__siunitx_table_exponent_dim=\dimen159
+\l__siunitx_table_integer_dim=\dimen160
+\l__siunitx_table_mantissa_dim=\dimen161
+\l__siunitx_table_marker_dim=\dimen162
+\l__siunitx_table_result_dim=\dimen163
+\l__siunitx_table_uncert_dim=\dimen164
+\l__siunitx_table_fill_pre_dim=\dimen165
+\l__siunitx_table_fill_post_dim=\dimen166
+\l__siunitx_table_fill_mid_dim=\dimen167
+\l__siunitx_table_pre_box=\box52
+\l__siunitx_table_post_box=\box53
+\l__siunitx_table_mantissa_box=\box54
+\l__siunitx_table_result_box=\box55
+\l__siunitx_table_number_align_skip=\skip75
+\l__siunitx_table_text_align_skip=\skip76
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7274.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPostPower with sig. 'mm' on line 7277.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7280.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrePower with sig. 'mm' on line 7283.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIQualifier with sig. 'mm' on line 7286.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7289.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7292.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7307.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \num with sig. 'om' on line 7316.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7325.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numrange with sig. 'omm' on line 7334.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7346.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIrange with sig. 'ommm' on line 7358.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SI with sig. 'omom' on line 7370.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \sisetup with sig. 'm' on line 7373.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \tablenum with sig. 'om' on line 7388.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \si with sig. 'om' on line 7400.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numInBookmark with sig. 'om' on line 7447.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numrangeInBookmark with sig. 'omm' on line 7449.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIInBookmark with sig. 'omom' on line 7451.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIlistInBookmark with sig. 'omm' on line 7453.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIrangeInBookmark with sig. 'ommm' on line 7455.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \siInBookmark with sig. 'om' on line 7456.
+.................................................
+\g__file_internal_ior=\read1
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\translator
+\translator.sty"
+Package: translator 2010/06/12 ver 1.10
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\translator
+\translator-language-mappings.tex")))
+LaTeX Font Info:    Try loading font information for T1+ntxtlf on input line 67
+.
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\newtx\t1ntxtlf.fd
+"
+File: t1ntxtlf.fd 2015/01/17 v1.0 font definition file for T1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.0pt on input line 67.
+ (BlowingSnowPaper_v3.aux)
+\openout1 = `BlowingSnowPaper_v3.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 67.
+LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 67
+.
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\newtx\omlntxmi.fd
+"
+File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
+)
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 67.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 67.
+
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\newtx\untxexa.fd"
+File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
+)
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 67.
+ ("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 67.
+LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 67
+.
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\newtx\lmsntxsy.fd
+"
+File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
+)
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 67.
+LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 6
+7.
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\newtx\lmxntxexx.f
+d"
+File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
+)
+LaTeX Font Info:    ... okay on input line 67.
+\c@mv@tabular=\count174
+\c@mv@boldtabular=\count175
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
+kii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count176
+\scratchdimen=\dimen168
+\scratchbox=\box56
+\nofMPsegments=\count177
+\nofMParguments=\count178
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count179
+\MPscratchDim=\dimen169
+\MPnumerator=\count180
+\makeMPintoPDFobject=\count181
+\everyMPtoPDFconversion=\toks26
+)
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftex
+cmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.
+sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf
+-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.s
+ty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefi
+nekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoption
+s.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetk
+eys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcm
+ds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+) ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 67.
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\translator
+\dicts\translator-basic-dictionary\translator-basic-dictionary-English.dict"
+Dictionary: translator-basic-dictionary, Language: English 
+)
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx-a
+bbreviations.cfg"
+File: siunitx-abbreviations.cfg 2017/03/23 v2.7f siunitx: Abbreviated units
+)
+\c__siunitx_mathsf_int=\count182
+LaTeX Font Info:    Try loading font information for OT1+ntxtlf on input line 6
+7.
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\newtx\ot1ntxtlf.f
+d"
+File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
+)
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.0pt on input line 67.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 7.3pt on input line 67.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 5.5pt on input line 67.
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 67.
+
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\newtx\untxmia.fd"
+File: untxmia.fd 2016/01/31 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 67.
+
+ ("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\newtx\untxsym.fd
+"
+File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 67.
+
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\newtx\untxsyc.fd"
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+LaTeX Font Info:    Try loading font information for T1+qhv on input line 67.
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tex-gyre\t1qhv.fd
+"
+File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
+)
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 67.
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 6.56995pt on input line 67.
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 4.94997pt on input line 67.
+\c__siunitx_mathtt_int=\count183
+LaTeX Font Info:    Try loading font information for T1+ntxtt on input line 67.
+
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\newtx\t1ntxtt.fd"
+File: t1ntxtt.fd 2012/04/20 v3.1
+)
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 10.0pt on input line 67.
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 7.3pt on input line 67.
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 5.5pt on input line 67.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 14.4pt on input line 81.
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 81.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 14.4pt on input line 81.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 5.0pt on input line 81.
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 4.49997pt on input line 81.
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <10> not available
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 102.
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.0pt on input line 102.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.0pt on input line 110.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.0pt on input line 110.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.2pt on input line 110.
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 7.19995pt on input line 110.
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 5.57996pt on input line 110.
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 8.0pt on input line 110.
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 6.2pt on input line 110.
+LaTeX Font Info:    Try loading font information for T1+ntxsups on input line 1
+23.
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\newtx\t1ntxsups.f
+d"
+File: t1ntxsups.fd 2015/01/17 v1.0
+)
+LaTeX Font Info:    Font shape `T1/ntxsups/m/n' will be
+(Font)              scaled to size 8.0pt on input line 123.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 9.0pt on input line 123.
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 9.0pt on input line 123.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 9.0pt on input line 156.
+ [1{C:/Users/beckal/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 7.3pt on input line 159.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 4.01501pt on input line 159.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.5pt on input line 163.
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <10.5> not available
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 163.
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.5pt on input line 163.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 10.0pt on input line 164.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+Overfull \hbox (8.8177pt too wide) in paragraph at lines 170--171
+\T1/ntxtlf/m/n/10 been stud-ied ex-ten-sively [\T1/ntxtlf/m/it/10 Geerts et al.
+\T1/ntxtlf/m/n/10 , 2015]. If the pro-posed surface-based ice-enhancement 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+LaTeX Font Info:    Try loading font information for TS1+ntxtlf on input line 1
+85.
+
+("C:\Users\beckal\AppData\Local\Programs\MiKTeX 2.9\tex\latex\newtx\ts1ntxtlf.f
+d"
+File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
+)
+LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.0pt on input line 185.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 5.5pt on input line 185.
+
+Overfull \hbox (6.16022pt too wide) in paragraph at lines 188--189
+[]\T1/ntxtlf/m/n/10 The prop-er-ties of hy-drom-e-te-ors were ob-served with th
+e holo-graphic Im-ager HOLIMO, 
+ []
+
+
+Overfull \hbox (0.41277pt too wide) in paragraph at lines 196--197
+[]\T1/ntxtlf/m/n/10 Meteorological data are avail-able from the mea-sure-ments 
+by the ZAMG. The ZAMG 
+ []
+
+
+Underfull \vbox (badness 1552) has occurred while \output is active []
+
+ [4]
+Underfull \vbox (badness 1552) has occurred while \output is active []
+
+ [5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Overfull \hbox (3.04524pt too wide) in paragraph at lines 242--243
+[]\T1/ntxtlf/m/n/10 Assumption: the ma-jor-ity of the ir-reg-u-lar ice crys-tal
+ comes from the ground, whereas 
+ []
+
+[7]
+
+LaTeX Warning: Reference `Nis05' on page 8 undefined on input line 258.
+
+
+Overfull \hbox (6.07681pt too wide) in paragraph at lines 256--261
+\T1/ntxtlf/m/n/10 120 to 70[], whereas the mean di-am-e-ter of the ir-reg-u-lar
+ ice crys-tals is con-stant at 100[]. 
+ []
+
+
+Overfull \hbox (0.17282pt too wide) in paragraph at lines 292--293
+[]\T1/ntxtlf/m/n/10 In this case a dif-fer-ent mech-a-nism has to be re-spon-si
+-ble for the de-crease if the ICNC 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+(BlowingSnowPaper_v3.bbl
+Underfull \hbox (badness 2150) in paragraph at lines 103--106
+[]\T1/ntxtlf/m/n/10 Lohmann, U. (2002), Pos-si-ble aerosol ef-fects on ice clou
+ds via con-tact nu-cle- 
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 103--106
+\T1/ntxtlf/m/n/10 ation, \T1/ntxtlf/m/it/10 Jour-nal of the At-mo-spheric Sci-e
+nces\T1/ntxtlf/m/n/10 , \T1/ntxtlf/m/it/10 59\T1/ntxtlf/m/n/10 (3), 647--656, d
+oi:10.1175/1520- 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+Underfull \hbox (badness 3861) in paragraph at lines 133--136
+[]\T1/ntxtlf/m/n/10 Rogers, D. C., and G. Vali (1987), Ice crys-tal pro-duc-tio
+n by moun-tain sur- 
+ []
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 133--136
+\T1/ntxtlf/m/n/10 faces, \T1/ntxtlf/m/it/10 J. Clim. Appl. Me-te-o-rol.\T1/ntxt
+lf/m/n/10 , \T1/ntxtlf/m/it/10 26\T1/ntxtlf/m/n/10 (9), 1152--1168, doi:10.1175
+/1520- 
+ []
+
+
+Underfull \hbox (badness 1194) in paragraph at lines 149--152
+[]\T1/ntxtlf/m/n/10 Schmidt, R. A. (1982), Ver-ti-cal pro-files of wind speed, 
+snow con-cen-tra-tion, and 
+ []
+
+) [11] <SONSetUp.png, id=50, 696.39372pt x 241.95996pt>
+File: SONSetUp.png Graphic file (type png)
+ <use SONSetUp.png>
+Package pdftex.def Info: SONSetUp.png used on input line 329.
+(pdftex.def)             Requested size: 398.33858pt x 138.40225pt.
+
+Overfull \hbox (0.85359pt too wide) in paragraph at lines 329--330
+ [][] 
+ []
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <9> not available
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 330.
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 9.0pt on input line 330.
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--330
+[]\T1/ntxtlf/b/n/9 Figure  1. \T1/ntxtlf/m/n/9 Sketch of the ex-per-i-men-tal s
+etup and the sur-round-ing struc-tures (left) with their heights rel-a-tive
+ []
+
+<tower.png, id=52, 213.34103pt x 284.45473pt>
+File: tower.png Graphic file (type png)
+ <use tower.png>
+Package pdftex.def Info: tower.png used on input line 336.
+(pdftex.def)             Requested size: 170.71652pt x 227.63353pt.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 9.0pt on input line 337.
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 8.09995pt on input line 337.
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--337
+[]\T1/ntxtlf/b/n/9 Figure  2. \T1/ntxtlf/m/n/9 Set up of the el-e-va-tor with t
+he holo-graphic im-ager HOLIMO mounted to the me-te-o-ro-log-i-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--337
+\T1/ntxtlf/m/n/9 tower at the SBO. The red lines and num-bers in-di-cate the fi
+ve dif-fer-ent heights where the el-e-va-tor was po-si-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--337
+\T1/ntxtlf/m/n/9 tioned re-peat-edly to ob-tain ver-ti-cal pro-files of the ICN
+C. The ref-er-ence height of 0.0[] is the bot-tom of the
+ []
+
+<MeteoOvervire_0402.png, id=53, 569.12625pt x 842.4273pt>
+File: MeteoOvervire_0402.png Graphic file (type png)
+
+<use MeteoOvervire_0402.png>
+Package pdftex.def Info: MeteoOvervire_0402.png used on input line 343.
+(pdftex.def)             Requested size: 398.33858pt x 589.65652pt.
+
+Overfull \hbox (0.85359pt too wide) in paragraph at lines 343--344
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+[]\T1/ntxtlf/b/n/9 Figure  3. \T1/ntxtlf/m/n/9 Overview of the me-te-o-ro-log-i
+-cal con-di-tions on 4 Febru-ary ob-tained from the SBO mea-sure-ments.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+\T1/ntxtlf/m/n/9 Shown are the tem-per-a-ture, rel-a-tive hu-mid-ity (top), win
+d speed (sec-ond from top) and wind di-rec-tion (sec-ond
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+\T1/ntxtlf/m/n/9 from bot-tom). All mea-sure-ments are 1[] av-er-ages ex-cept f
+or the max-i-mum wind speed, which cor-re-sponds
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+\T1/ntxtlf/m/n/9 to the max-i-mum wind speed ob-served dur-ing a cor-re-spond-i
+ng 1[] av-er-age. Grey and blue shaded ar-eas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
+\T1/ntxtlf/m/n/9 rep-re-sent time with mea-sure-ment (see Fig. 6[]) when the SB
+O was in cloud, re-spec-tively not in cloud. A wind
+ []
+
+
+LaTeX Warning: Float too large for page by 17.10753pt on input line 346.
+
+<MeteoOverview_1702.png, id=54, 625.6173pt x 842.4273pt>
+File: MeteoOverview_1702.png Graphic file (type png)
+
+<use MeteoOverview_1702.png>
+Package pdftex.def Info: MeteoOverview_1702.png used on input line 350.
+(pdftex.def)             Requested size: 398.33858pt x 536.4008pt.
+
+Overfull \hbox (0.85359pt too wide) in paragraph at lines 350--351
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--351
+[]\T1/ntxtlf/b/n/9 Figure  4. \T1/ntxtlf/m/n/9 Overview on the me-te-o-ro-log-i
+-cal con-di-tions on 17 Febru-ary for the time in-ter-val when mea-sure-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--351
+\T1/ntxtlf/m/n/9 ments ex-ist (see Fig. 8[]). On this day tem-per-a-ture and wi
+nd mea-sure-ments are avail-able from the SBO and the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--351
+\T1/ntxtlf/m/n/9 3D Sonic Anemome-ter. Shown are the tem-per-a-ture and rel-a-t
+ive hu-mid-ity (top), wind di-rec-tion (sec-ond from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--351
+\T1/ntxtlf/m/n/9 top), a com-par-i-son of the hor-i-zon-tal wind speed (mid-dle
+) and de-tailed wind speed mea-sure-ments from the 3D
+ []
+
+<0402_Total.png, id=55, 341.4356pt x 341.4356pt>
+File: 0402_Total.png Graphic file (type png)
+ <use 0402_Total.png>
+Package pdftex.def Info: 0402_Total.png used on input line 357.
+(pdftex.def)             Requested size: 227.62204pt x 227.63011pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--358
+[]\T1/ntxtlf/b/n/9 Figure  5. \T1/ntxtlf/m/n/9 ICNC as a func-tion of the heigh
+t of the el-e-va-tor at the me-te-o-ro-log-i-cal tower of the SBO. This plot
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--358
+\T1/ntxtlf/m/n/9 is a sum-mary of the 24 pro-files ob-tained on 4 Febru-ary. Th
+e data was av-er-aged over the en-tire time pe-riod
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--358
+\T1/ntxtlf/m/n/9 of sin-gle mea-sure-ments at the dif-fer-ent height. The num-b
+er in brack-ets is is the num-ber of con-cen-tra-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--358
+\T1/ntxtlf/m/n/9 mea-sure-ments per height. For each box, the cen-tral line mar
+ks the me-dian value of the mea-sure-ment and the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--358
+\T1/ntxtlf/m/n/9 left and right edges of the box rep-re-sent 25th and the 75th 
+per-centiles re-spec-tively. The whiskers ex-tend to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--358
+\T1/ntxtlf/m/n/9 min-i-mum and max-i-mum of the data; out-liers are marked as r
+ed pluses. The mean value of the mea-sure-ments
+ []
+
+<0402_Overview.png, id=56, 569.0058pt x 625.97865pt>
+File: 0402_Overview.png Graphic file (type png)
+ <use 0402_Overview.png>
+Package pdftex.def Info: 0402_Overview.png used on input line 364.
+(pdftex.def)             Requested size: 398.33858pt x 438.22028pt.
+
+Overfull \hbox (0.85359pt too wide) in paragraph at lines 364--365
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--365
+[]\T1/ntxtlf/b/n/9 Figure  6. \T1/ntxtlf/m/n/9 IC-NCs as a func-tion of height 
+of the el-e-va-tor for four dif-fer-ent time in-ter-vals dur-ing 4 Febru-ary,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--365
+\T1/ntxtlf/m/n/9 rep-re-sent-ing dif-fer-ent con-di-tions (Fig. 3[]). On the in
+-di-vid-ual pro-files (left), the cir-cles in-di-cate the mean value
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--365
+\T1/ntxtlf/m/n/9 av-er-aged over the en-tire time in-ter-val. The er-ror bars r
+ep-re-sent the stan-dard er-ror of the mean. The shaded
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--365
+\T1/ntxtlf/m/n/9 area ex-tends from the min-i-mum to the max-i-mum of the mea-s
+ured ICNC. As in Fig. 5[] only for the four time
+ []
+
+<0402_OverviewWS.png, id=57, 853.62915pt x 796.6563pt>
+File: 0402_OverviewWS.png Graphic file (type png)
+
+<use 0402_OverviewWS.png>
+Package pdftex.def Info: 0402_OverviewWS.png used on input line 371.
+(pdftex.def)             Requested size: 398.33858pt x 371.74203pt.
+
+Overfull \hbox (0.85359pt too wide) in paragraph at lines 371--372
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--372
+[]\T1/ntxtlf/b/n/9 Figure  7. \T1/ntxtlf/m/n/9 As Fig-ure 5[] only ICNC as a fu
+nc-tion of hor-i-zon-tal wind speed for the the time pe-ri-ods be-tween
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--372
+\T1/ntxtlf/m/n/9 0830 and 1500 UTC when the wind di-rec-tion was West-Southwest
+ (top) and be-tween 1910 and 2200 UTC
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--372
+\T1/ntxtlf/m/n/9 when the wind di-rec-tion was North (bot-tom). The wind speed 
+is the max-i-mum wind speed in one minute time
+ []
+
+<1702_Overview.png, id=58, 796.6563pt x 284.5029pt>
+File: 1702_Overview.png Graphic file (type png)
+ <use 1702_Overview.png>
+Package pdftex.def Info: 1702_Overview.png used on input line 378.
+(pdftex.def)             Requested size: 398.33858pt x 142.25978pt.
+
+Overfull \hbox (0.85359pt too wide) in paragraph at lines 378--379
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
+[]\T1/ntxtlf/b/n/9 Figure  8. \T1/ntxtlf/m/n/9 Ice crys-tal num-ber con-cen-tra
+-tion as a func-tion of the height of the el-e-va-tor at the me-te-o-ro-log-i-c
+al
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
+\T1/ntxtlf/m/n/9 tower of the SBO for 17 Febru-ary. On the left are the three i
+n-di-vid-ual pro-files ob-tained in cloud. The cir-cles
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
+\T1/ntxtlf/m/n/9 in-di-cate the mean value av-er-aged over the en-tire time in-
+ter-val. The er-ror bars rep-re-sent the stan-dard er-ror of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
+\T1/ntxtlf/m/n/9 the mean. The shaded area in-di-cates the vari-abil-ity of the
+ data and ex-tends from the min-i-mum to the max-i-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
+\T1/ntxtlf/m/n/9 mum when the data is av-er-aged over 50 holo-grams. For the su
+m-mary of the dif-fer-ent time in-ter-vals (right) the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
+\T1/ntxtlf/m/n/9 data is av-er-aged over 50 holo-grams. For each box, the cen-t
+ral line marks the me-dian value of the mea-sure-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
+\T1/ntxtlf/m/n/9 and the left and right edges of the box rep-re-sent 25th and t
+he 75th per-centiles re-spec-tively. The whiskers
+ []
+
+<1702_OverviewWS.png, id=59, 853.62915pt x 569.0058pt>
+File: 1702_OverviewWS.png Graphic file (type png)
+
+<use 1702_OverviewWS.png>
+Package pdftex.def Info: 1702_OverviewWS.png used on input line 385.
+(pdftex.def)             Requested size: 398.33858pt x 265.51396pt.
+
+Overfull \hbox (0.85359pt too wide) in paragraph at lines 385--386
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--386
+[]\T1/ntxtlf/b/n/9 Figure  9. \T1/ntxtlf/m/n/9 As Fig-ure 7[] only for 17 Febru
+-ary and four dif-fer-ent wind speed mea-sure-ments: a) one minute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--386
+\T1/ntxtlf/m/n/9 av-er-ages of the hor-i-zon-tal wind speed from the SBO, b) ma
+x-i-mum wind speed of the a cor-re-spond-ing time
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--386
+\T1/ntxtlf/m/n/9 in-ter-val in a), c) sec-ondly av-er-ages of the hor-i-zon-tal
+ wind speed and d) sec-ondly av-er-age of the ver-ti-cal wind
+ []
+
+<1702_habitsHeight.png, id=60, 796.4154pt x 842.4273pt>
+File: 1702_habitsHeight.png Graphic file (type png)
+
+<use 1702_habitsHeight.png>
+Package pdftex.def Info: 1702_habitsHeight.png used on input line 392.
+(pdftex.def)             Requested size: 398.33858pt x 421.35402pt.
+
+Overfull \hbox (0.85359pt too wide) in paragraph at lines 392--393
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--393
+[]\T1/ntxtlf/b/n/9 Figure  10. \T1/ntxtlf/m/n/9 Ver-ti-cal pro-files of the con
+-cen-tra-tion (left) and the rel-a-tive im-por-tance (right) of the sub-clas-si
+-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--393
+\T1/ntxtlf/m/n/9 fied ice crys-tal habits: reg-u-lar, ir-reg-u-lar and ag-gre-g
+ates. For the rel-a-tive im-por-tance the num-ber of ice crys-tals
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--393
+\T1/ntxtlf/m/n/9 of dif-fer-ent habits were di-vided by the to-tal num-ber of i
+ce crys-tals. For the-ses plots the data as av-er-aged
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--393
+\T1/ntxtlf/m/n/9 over 50 holo-grams. In both cases the cir-cles rep-re-sent the
+ mean of the 50 holo-gram av-er-ages. The er-ror bars
+ []
+
+<1702_habitswWS.png, id=61, 682.83105pt x 284.5029pt>
+File: 1702_habitswWS.png Graphic file (type png)
+ <use 1702_habitswWS.png>
+Package pdftex.def Info: 1702_habitswWS.png used on input line 399.
+(pdftex.def)             Requested size: 398.33858pt x 165.97119pt.
+
+Overfull \hbox (0.85359pt too wide) in paragraph at lines 399--400
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 400--400
+[]\T1/ntxtlf/b/n/9 Figure  11. \T1/ntxtlf/m/n/9 As Fig-ure 7[] only for 17 Febr
+u-ary and the ICNC of dif-fer-ent ice crys-tal habits as a func-tion of the
+ []
+
+<1702_habitswSpectrum.png, id=62, 512.1534pt x 341.47575pt>
+File: 1702_habitswSpectrum.png Graphic file (type png)
+
+<use 1702_habitswSpectrum.png>
+Package pdftex.def Info: 1702_habitswSpectrum.png used on input line 406.
+(pdftex.def)             Requested size: 398.33858pt x 265.5997pt.
+
+Overfull \hbox (0.85359pt too wide) in paragraph at lines 406--407
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--407
+[]\T1/ntxtlf/b/n/9 Figure  12. \T1/ntxtlf/m/n/9 Size dis-tri-bu-tion of the ir-
+reg-u-lar (left) and reg-u-lar (right) ice crys-tals ob-served on 17 Febru-ary
+ []
+
+<gammaPDF.png, id=63, 569.12625pt x 842.4273pt>
+File: gammaPDF.png Graphic file (type png)
+ <use gammaPDF.png>
+Package pdftex.def Info: gammaPDF.png used on input line 413.
+(pdftex.def)             Requested size: 398.33858pt x 589.65652pt.
+
+Overfull \hbox (0.85359pt too wide) in paragraph at lines 413--414
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--414
+[]\T1/ntxtlf/b/n/9 Figure  13. \T1/ntxtlf/m/n/9 Prob-a-bil-ity dis-tri-bu-tion 
+of the par-ti-cle di-am-e-ter for reg-u-lar (left) and ir-reg-u-lar (right) ice
+ crys-tals
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--414
+\T1/ntxtlf/m/n/9 mea-sured on 17 Febru-ary. The red line in-di-cates the re-sul
+t of the fit of the two pa-ram-e-ter gamma-pdf from
+ []
+
+<MeanShape.png, id=64, 569.0058pt x 284.5029pt>
+File: MeanShape.png Graphic file (type png)
+ <use MeanShape.png>
+Package pdftex.def Info: MeanShape.png used on input line 420.
+(pdftex.def)             Requested size: 398.33858pt x 199.16803pt.
+
+Overfull \hbox (0.85359pt too wide) in paragraph at lines 420--421
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 421--421
+[]\T1/ntxtlf/b/n/9 Figure  14. \T1/ntxtlf/m/n/9 Pro-files of the mean di-am-e-t
+er (left) and the shape pa-ram-e-ter (right) of the two pa-ram-e-ter
+ []
+
+[12 <./SONSetUp.png> <./tower.png>] [13 <./MeteoOvervire_0402.png (PNG copy)>]
+[14 <./MeteoOverview_1702.png (PNG copy)>] [15 <./0402_Total.png (PNG copy)>]
+[16 <./0402_Overview.png (PNG copy)>] [17 <./0402_OverviewWS.png (PNG copy)>]
+[18 <./1702_Overview.png (PNG copy)> <./1702_OverviewWS.png (PNG copy)>]
+[19 <./1702_habitsHeight.png (PNG copy)>] [20 <./1702_habitswWS.png (PNG copy)>
+ <./1702_habitswSpectrum.png (PNG copy)>] [21 <./gammaPDF.png (PNG copy)>]
+[22 <./MeanShape.png (PNG copy)>] (BlowingSnowPaper_v3.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 16097 strings out of 493334
+ 304552 string characters out of 3129788
+ 317985 words of memory out of 3000000
+ 19404 multiletter control sequences out of 15000+200000
+ 129545 words of font info for 160 fonts, out of 3000000 for 9000
+ 1147 hyphenation exceptions out of 8191
+ 41i,10n,38p,10383b,779s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/beckal/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname/8
+r.enc}{C:/Users/beckal/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/tex-gy
+re/q-ts1.enc}{C:/Users/beckal/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips
+/newtx/ntx-ot1-tlf.enc}{C:/Users/beckal/AppData/Local/Programs/MiKTeX 2.9/fonts
+/enc/dvips/tex-gyre/q-ec.enc}{C:/Users/beckal/AppData/Local/Programs/MiKTeX 2.9
+/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}<C:/Users/beckal/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/tex-gyre/qhvr.pfb><C:/Users/beckal/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/tex-gyre/qtmb.pfb><C:/Users/beckal/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/beck
+al/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/tex-gyre/qtmri.pfb><C:/
+Users/beckal/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/txfonts/rtxmi
+.pfb><C:/Users/beckal/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newt
+x/rtxmi7.pfb><C:/Users/beckal/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/txfonts/rtxr.pfb><C:/Users/beckal/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/txfonts/t1xtt.pfb><C:/Users/beckal/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/newtx/txexs.pfb><C:/Users/beckal/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/txfonts/txmia.pfb><C:/Users/beckal/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/newtx/txsys.pfb><C:/Users/beckal/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on BlowingSnowPaper_v3.pdf (22 pages, 12586948 bytes).
+PDF statistics:
+ 147 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+

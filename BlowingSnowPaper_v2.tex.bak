@@ -1,0 +1,778 @@
+%% 11/23/2015
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% AGUJournalTemplate.tex: this template file is for articles formatted with LaTeX
+%
+% This file includes commands and instructions
+% given in the order necessary to produce a final output that will
+% satisfy AGU requirements. 
+%
+% You may copy this file and give it your
+% article name, and enter your text.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PLEASE DO NOT USE YOUR OWN MACROS
+% DO NOT USE \newcommand, \renewcommand, or \def, etc.
+%
+% FOR FIGURES, DO NOT USE \psfrag or \subfigure.
+% DO NOT USE \psfrag or \subfigure commands.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Step 1: Set the \documentclass
+%
+% There are two options for article format:
+%
+% 1) PLEASE USE THE DRAFT OPTION TO SUBMIT YOUR PAPERS.
+% The draft option produces double spaced output.
+% 
+% 2) numberline will give you line numbers.
+
+%% To submit your paper:
+\documentclass[draft,linenumbers]{agujournal}
+\usepackage{siunitx}
+\draftfalse
+
+%% For final version.
+% \documentclass{agujournal}
+
+% Now, type in the journal name: \journalname{<Journal Name>}
+
+% ie, \journalname{Journal of Geophysical Research}
+%% Choose from this list of Journals:
+%
+% JGR-Atmospheres
+% JGR-Biogeosciences
+% JGR-Earth Surface
+% JGR-Oceans
+% JGR-Planets
+% JGR-Solid Earth
+% JGR-Space Physics
+% Global Biochemical Cycles
+% Geophysical Research Letters
+% Paleoceanography
+% Radio Science
+% Reviews of Geophysics
+% Tectonics
+% Space Weather
+% Water Resource Research
+% Geochemistry, Geophysics, Geosystems
+% Journal of Advances in Modeling Earth Systems (JAMES)
+% Earth's Future
+% Earth and Space Science
+%
+%
+
+\journalname{<enter journal name here>}
+
+
+\begin{document}
+
+%% ------------------------------------------------------------------------ %%
+%  Title
+% 
+% (A title should be specific, informative, and brief. Use
+% abbreviations only if they are defined in the abstract. Titles that
+% start with general keywords then specific terms are optimized in
+% searches)
+%
+%% ------------------------------------------------------------------------ %%
+
+% Example: \title{This is a test title}
+
+\title{Test}
+
+%% ------------------------------------------------------------------------ %%
+%
+%  AUTHORS AND AFFILIATIONS
+%
+%% ------------------------------------------------------------------------ %%
+
+% Authors are individuals who have significantly contributed to the
+% research and preparation of the article. Group authors are allowed, if
+% each author in the group is separately identified in an appendix.)
+
+% List authors by first name or initial followed by last name and
+% separated by commas. Use \affil{} to number affiliations, and
+% \thanks{} for author notes.  
+% Additional author notes should be indicated with \thanks{} (for
+% example, for current addresses). 
+
+% Example: \authors{A. B. Author\affil{1}\thanks{Current address, Antartica}, B. C. Author\affil{2,3}, and D. E.
+% Author\affil{3,4}\thanks{Also funded by Monsanto.}}
+
+\authors{Alexander Beck\affil{1}, Jan Henneberger\affil{1}, and Ulrike Lohmann\affil{1}}
+
+
+% \affiliation{1}{First Affiliation}
+% \affiliation{2}{Second Affiliation}
+% \affiliation{3}{Third Affiliation}
+% \affiliation{4}{Fourth Affiliation}
+
+\affiliation{1}{Institute for Atmospheric and Climate Sciences, ETH Zurich, Zurich, Switzerland}
+%(repeat as many times as is necessary)
+
+%% Corresponding Author:
+% Corresponding author mailing address and e-mail address:
+
+% (include name and email addresses of the corresponding author.  More
+% than one corresponding author is allowed in this LaTeX file and for
+% publication; but only one corresponding author is allowed in our
+% editorial system.)  
+
+% Example: \correspondingauthor{First and Last Name}{email@address.edu}
+
+\correspondingauthor{Jan Henneberger}{janhenneberger@env.ethz.ch}
+
+%% Keypoints, final entry on title page.
+
+% Example: 
+% \begin{keypoints}
+% \item	List up to three key points (at least one is required)
+% \item	Key Points summarize the main points and conclusions of the article
+% \item	Each must be 100 characters or less with no special characters or punctuation 
+% \end{keypoints}
+
+%  List up to three key points (at least one is required)
+%  Key Points summarize the main points and conclusions of the article
+%  Each must be 100 characters or less with no special characters or punctuation 
+
+\begin{keypoints}
+\item  In-situ measurements of microphysical cloud properties with a holographic Imager
+\item  Influence of in-situ cloud observations at mountain top stations by ground based ice enhancement processes 
+\item
+\end{keypoints}
+
+%% ------------------------------------------------------------------------ %%
+%
+%  ABSTRACT
+%
+% A good abstract will begin with a short description of the problem
+% being addressed, briefly describe the new data or analyses, then
+% briefly states the main conclusion(s) and how they are supported and
+% uncertainties. 
+%% ------------------------------------------------------------------------ %%
+
+%% \begin{abstract} starts the second page 
+
+\begin{abstract}
+In-situ cloud observations at mountain-top research station regularly measure ice crystal number concentrations (ICNCs) orders of magnitudes higher than expected from measurements or simulations of ice nuclei particle concentrations. Several studies suggest mountain-top in-situ measurements are influenced by surface-based ice-enhancement process, e.g. blowing snow, hoar frost or riming on snow covered trees, rocks and the remaining snow surface. A strong influence of in-situ observations on mountain-top stations by surface-based ice-enhancement processes may limit relevance of such measurements and could have an impact on orographic clouds.
+
+This study assesses the influence of surface-based ice-enhancement processes on in-situ cloud observations at the Sonnblick Observatory in the Hohen Tauern Region, Austria. Vertical profiles of ICNCc above a snow covered surface were observed up to a height of 10\,\si{m}. A decrease of the ICNC by at least a factor of two is observed, if the maximum ICNC is larger than 100\,\si{l^{-1}}. This decrease extended up to one order of magnitude during in cloud conditions and reached its maximum of more than two orders of magnitudes when the station was not in cloud. ... These observations strongly suggest that mountain-top in-situ measurements poorly represent the true properties of the cloud in contact with the surface. They are influenced not only by surface-based ice-enhancement processes, but possibly also by ICNC enhancement due to turbulent layers above the surface. 
+\end{abstract}
+
+
+\section{Introduction}
+The microphysical properties (e.g. phase composition, cloud particle number concentrations) and cloud processes are key parameters for the clouds lifetime, the cloud extent, as well as the intensity of precipitation they produce \citep{Rot07}. For example, the phase composition influence the radiative properties of midlevel clouds in the temperature range between 0 to -35\,\si{^\circ C}. A pure ice cloud in this temperature regime reflects 17\,\si{W\,m^{-2}} more radiation than an pure liquid cloud \citep{Loh02}. A well representation of orographic mixed-phase clouds is therefore crucial for accurate weather predictions in alpine terrain and improved climate models. 
+
+In-situ measurements are important to improve our understanding of microphysical properties and fundamental processes of orographic mixed-phase clouds \citep{Bau10} and are frequently conducted at mountain-top research stations. Despite an improved understanding on the origin of ice crystals from nucleation (citation!!!!) as well as from secondary ice-multiplication processes \citep{Fie17}, the source of most of the ice crystals observed at mountain-top stations and their impact on the development of the cloud remains an enigma (citation!!!!).
+ 
+In-situ observations with aircraft usually observe and ICNC on the order of 1-10\,\si{l^{-1}} \citep{Gul01}, whereas at mountain-top research stations (e.g. Elk Mountain, USA or Jungfraujoch, Switzerland) or near the snow surface in the Arctic ICNCs of several hundreds to thousands per liter are frequently reported \citep{Rog87, Lac01, Loy15}. Secondary ice multiplication processes like fragmentation \citep{Ran01} or the Hallett-Mossop process \citep{Hal74} are usually ruled out as the source for the observed ice crystals due to the lack of large ice crystals, respectively large cloud droplets or the wrong temperature range. Instead surface-based ice-enhancement processes are proposed to produce such enormous ICNCs. \citet{Rog87} suggested two possible processes as a source for the observed ICNC: riming on trees, rocks and the snow surface or the lifting of snow particles from the surface, i.e. blowing snow. In addition, \citet{Loy15} suggested hoar frost as a wind independent, surface-based ice-enhancement process to cause ICNCs larger than 100\,\si{l^{-1}} for which they didn't observe a wind dependency as expected for blowing snow. Although different studies are strife about the mechanisms to explain the measured high ICNCs, they agree on an strong influence by surface-based processes. 
+
+While the influence of mountain-top measurements by surface-based processes is widely accepted, the impact of re-suspended ice crystals on the development of supercooled orographic clouds, e.g. a more rapid glaciation and enhanced precipitation, has not been studied extensively \citep{Gee15}. If the proposed surface-based ice-enhancement processes have the potential to impact the development of a cloud depends primarily on the penetration depth of the reseuspended particle into a cloud, i.e. the maximum height above the surface to which the particles get lifted.   
+
+The height dependency of blowing snow has been studied in the context of snow redistribution ("snow drift") and reduced visibility due to the re-suspended ice crystals by observing ice crystals up to several meters above the snow surface \citep{Sch82, Nis05}. It has been reported that blowing snow occurs above a wind speed threshold that varies between 4\,\si{m\,s^{-1}} and 13\,\si{m\,s^{-1}} \citep{Bro88, Li97, Mah03, Der99}. Besides the wind speed, the concentration of blowing snow depends on the snowpack properties () and on the atmospheric conditions (current temperature, humidity) \citep{Vio13}. \citet{Nis05} observed the ICNC up to a height of 9.6\,\si{m} and found that the ICNCs usually decrease to as low as 1-10 particles per liter. During a precipitation event, the relative importance of the small ice crystals below < 100\,\si{\mu m} decreases from nearly 100\,\si{\%} at 1.1\,\si{m} to below 20\,\si{\%} at 9.6\,\si{m}. The rapid decrease of ICNCs with height observed by these studies may limit the impact of blowing snow on orographic clouds. However, most of these studies were conducted in dry air conditions where ice crystals undergo rapid sublimation \citep{Yan08}, which may limit the applicability of these results.
+
+\citet{Loy15} suggested that vapor grown ice crystals on the crystalline surface of the snow cover, i.e. hoar frost, may be detached by mechanical fracturing due to turbulence independent of wind speed. To our knowledge only one modelling study exists, which asses the impact of haor frost on the development of a cloud. \citet{Far15} implemented a flux of surface hoar crystals in the WRF (Weather Research and Forecasting) model based on a frost flower aerosol flux to simulate ICNCs measured at the Jungfraujoch by \citet{Loy15}. They concluded, that the surface-based ice-crystals have a limiting impact on orographic clouds because the ice crystals are not advected high into the atmosphere. However, more measurements of ice-crystal fluxes from the snow covered surface are necessary to simulate the impact of surface-based ice-crystal enhancement processes on the development of orographic clouds \citep{Far15}.
+
+In contrast to these finding, several remote sensing (i.e. satellite, lidar and radar) studies measured ice crystals advected as high as 1\,\si{km} above the surface, which suggest an impact of surface-originated ice-crystals on clouds. Satellite observations of blowing snow from MODIS and CALIOP over the Antarctica \citep{Pal11} observed layer thickness up to 1\,\si{km} with an average thickness of 120\,\si{m} for all observed blowing snow events. Similar observations from lidar measurements exist from the South Pole with an observed layer thickness of ice crystals of usually less than 400\,\si{m}, but some rare cases when a subvisual layer exceeded a height of 1\,\si{km} \citep{Mah03}. However, a possible suspension of clear-sky precipitation could not be ruled out as a source of the observed ice crystal layers. Observations of layers of ice crystals from radar measurements on an aircraft in the vicinity of the Medicine Bow Mountains \citep{Val12} observed ground-layer snow clouds which where most of the time not visually detectable but produced a radar signal. Resuspended ice crystals from the surface or riming of cloud droplets at the surface can be the origin of the ice crystals in such ground-layer snow clouds. \citet{Gee15} presented evidence for ice crystals becoming lofted up to 250\,\si{m} in the atmosphere by boundary layer separation behind terrain crests and by hydraulic jumps. Also evidence that ice crystals from the surface may lead to the glaciation of supercooled orographic clouds and enhanced precipitation were found. However, \citet{Gee15} also mention the limitation of radar and lidar measurement to separate the small ice crystals produced by surface processes from the larger falling snow particles and more abundant cloud droplets. They even concluded, that "to explore BIP (blowing snow ice particle) lofting into orographic clouds, ice particle imaging devices need to be installed on a tall tower, or on a very steep mountain like the Jungfraujoch".
+
+In this study we assess the influence of surface-based ice-enhancement processes on in-situ cloud observations at mountain-top stations and the a potential impact on orographic mixed-phase clouds. Therefore, vertical profiles of the ICNC up to a height of 10\,\si{m} above the surface are observed for the first time in cloud at the Sonnblick Observatory. Ice crystals are recorded with the holographic imager HOLIMO, capable of observing ice crystals larger than 25\,\si{\mu m} \citep{Bec17}. 
+
+\section{Field Measurements at the Sonnblick Observatory}
+\label{sectionMeasurementSite}
+
+\subsection{Site description}
+
+This field campaign was conducted at the Sonnblick Observatory (SBO) situated at the summit of Mt. Sonnblick at 3106\,\si{masl} (\ang{12;57;}E, \ang{47;03;}N) in the Hohen Tauern National Park in the Austrian Alps. The SBO is a meteorological observatory operated all year by the ZAMG (Central Institute for Meteorology and Geodynamics). On the East and South the SBO is surrounded by large glacier fields with a moderate slope, whereas on the Northeast a steep wall of approximately 800\,\si{m} descends to the valley (Fig.~\ref{fig:SetUp}, right). Part of the SBO is a 15\,\si{m} high tower used for meteorological measurements by the ZAMG. The data presented in this paper was collected during a field campaign in February 2017. 
+
+\subsection{Instrumentation}
+The microphysical properties of clouds, hydrometeors and resuspended particles from the surface were observed with the holographic Imager HOLIMO, which is part of the HoloGondel platform \citep{Bec17}. The holographic Imager was mounted on an elevator that was attached to the meteorological tower of the SBO (Fig.~\ref{fig:Elevator}) to obtain vertical profiles of the microphysical properties up to a height of 10\,\si{m} above the surface where the platform was repeatedly positioned at five different heights as indicated in Figure \ref{fig:Elevator}. The holographic imager HOLIMO had a distance of approximately 1.5\,\si{m} from the tower on the east-northeast side of the tower (Fig.~\ref{fig:SetUp}, right). The holographic imager HOLIMO captures the information of cloud particles in a three-dimensional volume on a single image. In this study a  sample volume of 16\,\si{cm^3} with a length of 6\,\si{cm} along the optical axis was examined. The data is averaged over 50 holograms and a total volume of 800\,\si{cm}. The open source software HoloSuite \citep{Fug15} is used to reconstruct the in-focus images of the particles. Particles smaller than 25\,\si{\um m} are classified as liquid droplets, whereas particles larger than 25\,\si{\um m} are separated in liquid droplets and ice crystals based on the shape of their 2D image. Similar to a study by \cite{Sch17} the ice crystals were further visually classified into three different groups: regular, irregular and aggregates. Because the visual classification of several thousands of ice crystals is time consuming this sub-classification of ice crystals was done only for the profiles on February 17th.
+
+%The CIP was located on the north facing side of the measurement terrace of the SBO (see Fig.~\ref{fig:SetUp}, left). Because this location is in the wind shadow of the building of the SBO during south wind cases, the CIP data is only analysed for February 17th, when the wind direction was from North.  
+
+Meteorological data are available from the measurements by the ZAMG and the HoloGondel platform. The ZAMG measures one minute averages of temperature, relative humidity and horizontal wind speed and direction at the top of the meteorological tower. Snow cover depth is daily manually observed by the operators of the SBO. Based on these measurements the change of the snow cover is calculated. However, this calculation includes all the changes in the snow cover depth, e.g. snow drift, sublimation, melting and fresh snow. Daily measurements of the total precipitation are available on the North and South side of the SBO. A ceilometer located in the valley on the North of the SBO measured the cloud base and cloud depth. An additional 3D Sonic Anemometer, which is part of the HoloGondel platform \citep{Bec17}, was mounted at the top of the meteorological tower. However, data is only available occasionally, because most of the time the heating of the Anemometer was not sufficient enough to prevent the build up of rime on the measurement arms. 
+
+\section{Results}
+\label{Results}
+
+The data presented were observed on 4 February and 17 February 2017. Figure \ref{fig:meteo0402} and \ref{fig:meteo1702} show an overview on the meteorological conditions on both days. The main difference is the wind direction, which was South-West on 4 February and North on 17 February. 
+
+\subsection{4 February 2017}
+
+On 4 February a low pressure system moved eastwards from the Atlantic Ocean over northern France to western Germany, where it slowly dissipated. Influenced by this low pressure system the wind at the SBO predominantly came from West-Southwest and wind speeds between 10 and 25 \si{m\,s^{-1}}. In the late afternoon around 1900 UTC, when the low pressure system dissipated over western Germany, the wind direction changed to North and wind speeds decreased to a minimum of 5 \si{m\,s^{-1}}. After 1900 UTC wind speed increased again to up to 15 \si{m\,s^{-1}}. Starting from 0800 UTC the SBO was in cloud except for a short time interval between 1910 and 2020 UTC. The temperature didn't change much during the day and stayed between -10 and -9\,\si{^\circ C} until 1900 UTC when the wind direction changed to North and the temperature decreased to -11\,\si{^\circ C} at 22 UTC.
+
+Between 0830 and 2200 UTC, a total of 24 vertical profiles were obtained. Because no data is available from the 3D Sonic Anenometer, only one minute averages of temperature, wind speed and direction are available from the ZAMG measurements (Fig. \ref{fig:meteo0402}). Most of the profiles were obtained when the station was in cloud expect for four profiles between 1910 and 2020 UTC as indicated in Figure \ref{fig:meteo0402}. The ICNC as a function of height summarized over 24 vertical profiles obtained on 4 February is shown in Figure \ref{fig:Total0402}. The ICNC reaches a maximum at 2.5\,\si{m} above the surface. Compared to this maximum, the mean ICNC at a height of 10\,\si{m}decreases by a factor of two and the median ICNC even by a factor of four. These observations suggest an influence of the measurements close to the snow surface by surface based ice crystal enhancement processes and a rapid decrease of the ICNC with height.
+
+Figure \ref{fig:profiles0402} shows four time periods representing different conditions during the 4 February. For the vertical profiles obtained between 1910 and 2010 UTC (Fig. \ref{fig:profiles0402} first row), when the SOB was not in cloud, the ICNCs have their maximum at a height of 2.5\,\si{m}. The maximum ICNC at this height reaches up to 600\,\si{l^{-1}}. For three of the profiles, the ICNC decrease by more than a factor of 5 from over 100\,\si{l^{-1}} at 2.5\,\si{m} to less than 20\,\si{l^{-1}} at 10\,\si{m}. The mean ICNC decreases from around 100\,\si{l^{-1}} at 2.5\,\si{m} to 10\,\si{l^{-1}} at 10\,\si{m} (Fig. \ref{fig:profiles0402}, right panel in the first row). The large extend of the shaded area at 2.5\,\si{m} represents the high variability of the ICNC even when the data is averaged over 50 holograms. Because the SBO was not in cloud during this time period, these measurements strongly suggest an influence by surface based processes at a wind speed of less than 10\,\si{m\,s^{-1}} of up to several hundreds of ice crystals per liter at a height of 2.5\,\si{m}.
+
+Between 2030 and 2200 UTC (Fig. \ref{fig:profiles0402} second row), when the SBO was in cloud again, the vertical profiles of the ICNC show a similar tendency as in the cloud free period. The maximum of the ICNC was observed at a height of 4.1\,\si{m} and the ICNC decreases consistently for all four profiles with height above the observed maximum. The boxplot on the right of Figure \,\ref{fig:profiles0402} shows that the mean of the ICNC decreases by a factor of 9 from its maximum at 4.1\,\si{m} to its minimum at 10\,\si{m}. This decrease is in the same order of magnitude as in the cloud free case discussed above. Assuming that the observed ICNC at 10\,\si{m} is representative for the cloud without surface influence, the surface-based processes contribute with several hundreds of ice crystals per liter to the measurements at 2.5, 4.1 and 6.0\,\si{m}. This surface-based contribution is in the same order of magnitude as the total measured ICNCs in the cloud free period observed between 1910 and 2020 UTC. The influence extends to a height of 6.0\,\si{m}, which is probably due to an increased wind speed of up to 15\,\si{m\,s^{-1}}. 
+
+The highest ICNCs were observed in the time period between 1200 and 1500 UTC (Fig. \ref{fig:profiles0402} second row) when also the wind speed reaches its maximum of 25\,\si{m\,s^{-1}}. The boxplot for this time interval shows a maximum ICNC at 2.5\,\si{m} in the range of 500 to 900\,\si{l^{-1}} and a decrease by a factor of 2 within 7.5\,\si{m}. This decrease is much lower than observed in the previous time interval and is most likely due to the high wind speeds. Between differen profiles the ICNC changed by a factor of, however, the trend of a decreasing ICNC with height was observed consistently for all profiles.
+
+In the morning between 8300 and 1100 UTC the observed ICNCs (Fig. \ref{fig:profiles0402} first row) are much lower than between 1200 and 1500 UTC, although wind speed was as high as 20\,\si{m\,s^{-1}}. A possible reason is the history of the snowpack before 04 February 2017. The last snow fall was observed on ?? February 2017 and most of the loose ice crystals on top of the snowpack possibly alredy have been blown away. Therefore, higher wind speeds are necessary to resuspend ice crystals from the snowpack. 
+
+To get an estimate of the correlation between wind speed and ICNC, the ICNC is averaged over a time interval of 1\,\si{min} and compared to the maximum wind speed in the corresponding 1\,\si{min} time interval observed by the SBO on top of the meteorological tower. Maximum wind speed is used rather the average wind speed, because it is expected that the gusts, i.e. the highest wind speed in an time interval are most relevant for resuspending ice crystals from the surface. For the time interval between 0830 an 1500 UTC when the wind direction was west-southwest (Fig \ref{fig:ICNCvsWSMAX0402}, top) the ICNC shows no strong correlation is observed for wind speeds higher than 14\,\si{m\,s^{-1}}. For the time interval bwetween 1910 and 2230 UTC (Fig \ref{fig:ICNCvsWSMAX0402}, bottom), when the wind direction was north, a much more pronounced dependency of the ICNC on wind speed is observed for wind speeds lower than 14\,\si{m\,s^{-1}}. This is a possible indication that the ice crystal concentration reaches a saturation for wind speed larger than 14\,\si{m\,s^{-1}} for the conditions on 04 February 2014.
+
+\subsection{17 February 2017}
+On 17 February a cold front over northern Europe was moving southwards causing mainly northerly flow across the alps and at the SBO. Wind speeds observed at the SBO in the time interval between 1800 and 2000 UTC were between 5 and 10\,\si{m\,s^{-1}} (Fig. \ref{fig:meteo1702}).  In the same time interval temperature decreased by 1\,\si{K} from -12.5 to -13.5\,\si{^\circ C}. The SBO was in cloud starting from 1300 UTC with varying visibility between several meters up to several hundreds of meters. Some snow fall was observed in the afternoon between 1300 and 1500 UTC. 
+
+For this day wind data of the 3D Sonic Anemometer are available, which allow a more detailed analysis of the correlation between the observed ICNC and wind speed. Unfortunately, only four vertical profiles were obtained with the HoloGondel platform due to hardware problems with the computer of the platform. The first profile was measured in the morning at 1200 UTC when the SBO was not in cloud and no ice crystals were observed. Three more profiles were observed in the late afternoon starting from 1800 UTC. For these profiles the ice crystals have been classified by hand and subclassified in the three categories: regular, irregular and aggregates.
+
+Figure \ref{fig:profiles1702} gives an overview on the three profiles observed in the late afternoon of 17 February. An ICNC of several hundreds was observed in the lowest height intervals with a maximum between 4.1 and 6.0\,\si{m}. The minimal ICNC was consistently observed for all profiles at 10\,\si{m} and was always below 150\,\si{l^{-1}}. The decrease of the ICNC varies between a factor of 2 and 4. In general the observed profiles on this day are similar to the ones observed on 4 February between 2030 and 2200 UTC. This may be explained by very similar meteorological conditions. Wind direction was mainly from North to Northeast and wind speed varied between 5 and 10 \,\si{m\,s^{-1}} in both measurement intervals. Only temperature was slightly lower on 17 February.
+
+In Figure \ref{fig:ICNCvsWind1702} ICNCs are compared to various wind speeds. In contrast to the data of 4 February no correlation between ICNCs and the horizontal wind speed is observed. This holds true for the one minute average and maximum wind speed of the corresponding time interval observed by the SBO as well as the secondly average observed with the 3D Sonic Anemometer from the HoloGondel Platform. However, Figure \ref{fig:ICNCvsWind1702}c shows an increase of ICNC with the vertical wind speed. 
+
+All the ice crystals observed on 17 February were classified by hand a subclassification into irregular and regular ice crystals as well as aggregates was realized. The profiles of the subcatogrized ICNCs and the relative abundance of these categories on the different heights are shown in Figure \ref{fig:profilesHabits1702}. ICNCs are dominated by irregular ice crystals, which is in good agreement with various other observations (citations). However, it is surprising to us that the relative importance of the irregular ice crystals stays constant with height or even increases. From surface based ice crystal enhancement processes irregular are ice crystals are expected to enhance ICNCs near the surface. With increasing height this influence is expected to decrease and regular ice crystals to become more important. However, from this data a proportional decrease of the absolute number of regular and irregular ice crystals is observed. In Figure \ref{fig:ICNCvsWindHabits1702} the concentration of the different habits is correlated to the vertical wind speed observed. It shows that the ICNC of irregular ice crystals dependence more on wind speed. 
+
+Figure \ref{fig:spectrum17} shows the size distribution of regular and irregular ice crystals at three different heights. Whereas the shape of the size distribution of the irregular ice crystals doesn't vary much and only decreases with height, the size distribution of the regular ice crystals shows a stronger decrease of the larger ice crystals. 
+
+\section{Discussion}
+\label{Discussion}
+
+\subsection{Wind dependency of the observed ICNCs}
+
+The observations on 4 February and 17 February show a different correlation of the ICNC with wind speed. Whereas the ICNCs observed on 4 February show a dependency on horizontal wind speed below 14\,\si{m\,{s^{-1}}}, this dependency is not observed for ICNCs on 17 February \ref{fig:ICNCvsWind1702}. However for the data on 17 February a correlation is observed with vertical wind speed available from the 3D Sonic Anemometer. Because the vertical wind speed is not available for 17 February possible reasons for this observation are speculative. Possibly the orography plays an important role for the wind speed dependency. The north side of the SBO is a steep wall of 800\,\si{m}. Therefore, vertical winds may transport ice crystals from this wall up to the ridge of the mountain, where they finally become lifted into the air. A possible reason for the missing wind dependency on 4 February for horizontal wind speeds larger than 14\,\si{m\,s^{-1}} is a saturation of the concentration of blowing snow.
+
+In previous literature a wind dependency was observed for ICNCs smaller than 100\,\si{\mu m}, whereas larger ICNCs were wind independent \citep{Loy15}. Blowing snow, receptively hoar frost were proposed as the underlying mechanisms for these observations. Based on our observations we propose that at mountain-top research station not only the horizontal wind speed may play an important role for the resuspension of ice crystals from the surface, but also the vertical wind speed. This may be true particular for research stations like the Jungrfaujoch, Switzerland and SBO, Austria with their steep orography. 
+
+It has to be mentioned that various difficulties exist when it comes to observe the correlation between wind speed and ICNC. Firstly, ICNCs are usually compared to a simultaneously measured wind speed. However, the observed ice crystals may have been resuspended some time before the measurement and transported in the air for a short time. In this case the simultaneously observed wind speed is not necessarily the driving force of the process of particle lifting. Secondly, wind and ICNC measurements may be performed at two different locations. Especially at mountain-top research station with its many structures, local turbulence responsible for the resuspenson of the observed ice crystals may be not well represented by such a wind measurement. Thirdly, the ICNC does not only depend on wind speed, but also on age of the snow cover and atmospheric conditions and a possible correlation may suppressed in a data set with different snowpack and atmospheric conditions.
+
+\subsection{Size distribution}
+To better understand if the observed ice crystals are mainly resuspended particles from the surface the ice crystals observed on 17 February were subclassified into three different habits: regular, irregular and aggregates and the results are compared to previous studies about blowing snow. Because the main focus of blowing snow studies was the redistribution of snow and its effect on road visibility, avalanche danger as well as mass and energy balance, they usually focused on limited height intervals (<2\,\si{m}) above the snow surface. To our knowledge only \citet{Nis05} conducted measurements of the properties of blowing snow up to a height of 9.6\,\si{m} at Mizuho Station, Antarctica. However, it is important to keep in mind that also this study was conducted over a flat surface in dry air conditions. 
+
+It is known that the particle size distribution at different heights can be well represented with two-parameter gamma probability density functions \citep{Bud66, Sch82} 
+
+\begin{linenomath*}
+\begin{equation}
+f(\text{d}) = \frac{\text{d}^{\alpha - 1}}{\beta^{\alpha} \Gamma\left(\alpha\right)}\exp\left(-\frac{\beta}{\text{d}}\right) 
+\end{equation}
+\end{linenomath*}
+
+with the particle diameter d, the shape parameter $\alpha$ and the scale parameter $\beta$. The fitted results for 17 February are shown in Figure \ref{fig:gammaPDF} for both regular and irregular ice crystals. The fits show close agreement with the data for both habits and all heights. The resulting shape parameter $\alpha$ and the mean diameter, represented by the product of the shape and scale parameter of the gamma-pdf, are plotted in Figure \ref{fig:shapeFactor}. The mean diameter of the regular ice crystals decreases with increasing height from 120 to 70\,\si{\mu m}, whereas the mean diameter of the irregular ice crystals is constant at 100\,\si{\mu m}. The shape factor for the irregular ice crystals also varies only little, whereas the shape factor for the regular ice crystals increases from 5 to 7 at a height of 10\,\si{m}. Compared to the results of \,\ref{Nis05} the parameters of the size distribution of the regular ice crystals compare much better to the properties of blowing snow than the of irregular crystals. This is puzzling, because blowing snow has been observed to have dominantly ice crystals of irregular habits (citation). For the data observed between 1910 and 2000 UTC on 4 February, which is clearly a blowing snow event, inspection of the ice crystal habit by eye confirm these results. 
+
+II is not believed that the regular ice crystals observed on 17 February origin from the surface, because they show a much weaker wind dependency than irregular ice crystals (Fig. ref{fig:ICNCvsWindHabits1702}). This is also observed during one vertical profile (Fig. \ref{fig:profilesHabits1702}, middle row). The vertical wind speed during this profile was similar for all heights (3\,\si{m\,s^{-1}}), only when the elevator was at a height of 6\,\si{m} a wind speed reached its maximum of 4.5\,\si{m\,s^{-1}}. Whereas the concentration of irregular ice crystals significantly increases at this time and height, the concentration of regular ice crystals gradually decreases with height. This suggests that ice crystals resuspended from the surface have irregular habits and are much more wind dependent. 
+
+In this case a different mechanism has to be responsible for the decrease if the ICNC of regular and irregular ice crystals observed on 17 February (Fig. \ref{fig:profilesHabits1702}).  Possibly a turbulent layer above the surface enriches the ICNC of irregular as well as regular ice crystals. In this case surface-based ice-crystal enhancement processes only infrequently increase the ICNC irregular crystals as observed in one profile at a height of 6\,\si{m} and on 4 February 2017. This also explains why a wind dependency was observed for the irregular ice crystals but not the regular ice crystals. If such an effect is responsible for the decrease of the ICNC, the differences in the size distribution of irregular and regular ice crystals can still not fully be explained. The differences between the irregular ice crystals and the observations of blowing snow by \citet{Nis05} is possibly due to the missing sublimation of ice crystals in cloud as it was observed in this study. This can explain the observation of a constant mean diameter with height, whereas the mean diameter in dry air decreased. An explanation of the decrease of the mean diameter of the regular ice crystals can not be given at this point and further observations are necessary to fully understand the findings of this study.
+
+
+\section{Conclusion}
+This study assess the potential influence of mountain-top in-situ measurements by surface-based ice-crystal enhancement processes and possible implications on the relevance of such measurements for atmospheric studies. For this, an elevator was attached to the meteorological tower of the SBO, Austria and vertical profiles of the ICNC were observed with the holographic imager HOLIMO on two days in February 2017. The main findings are:
+
+\begin{itemize}
+\item A decrease of the ICNC by at least a factor of two is observed, if the maximum ICNC is larger than 100\,\si{l^{-1}}. This decrease extended up to one order of magnitude during in cloud conditions and reached its maximum of more than two orders of magnitudes when the station was not in cloud.
+\item Irregular ice crystals show a stronger wind dependency than regular ice crystals. This is agreement with the observation that surface-based ice-crystals enhancement processes dominantly produce irregular ice crystals.
+\item On 17 February a similar decrease of the concentration of irregular and regular ice crystals is observed, which can not be explained by surface-based ice crystal enhancement processes. Possibly turbulent layer close to the surface contributes to an enriched ICNC.
+\item Based on the results of this study, in-situ measurements of the ICNC at mountain-top research stations close to the surface over estimate the ICNC by at least a factor of two. This limits the atmospheric relevance of such measurements. However, the data set obtained is to small to make a clear statement under which conditions in-situ measurments at mountain-top research station may well represent the real properties of a cloud in contact with the surface and when not.
+\item Further and more extensive field campaigns are necessary to better understand the mechanisms, which are responsible for the enhanced ICNC observed close to the surface at mountain-top research stations. Especially the reason for an increased concentration of irregular ice crystals near the surface is not understood. We propose to perform measurements with a tethered balloon system to extend vertical profiles and better understand possible mechanisms, which enhance the ICNC observed at mountain-top research stations.
+\end{itemize}
+
+\label{Summary}
+
+
+
+\begin{acronyms}
+\acro{ICNC}{Ice Crystal Number Concentration}
+\acro{HOLIMO}{HOLograophic Imager for Microscopic Objects }
+\acro{SBO}{Sonnblick Observatory}
+\end{acronyms}
+
+
+\acknowledgments
+Sonnblick Observatory and team (Elke Ludewig, Hermann Scheer, Norbert Daxbacher, Lug Rasser, Hias Daxbacher)\\
+Thanks to Hannes, Olga, Fabiola, Monika, for their help\\
+Thanks to Rob for many discussions
+
+\bibliography{jabref_database}
+
+\newpage
+
+\begin{figure}[t]
+ \centering
+ 	\includegraphics[width=14cm]{SONSetUp.png}
+ \caption{Sketch of the experimental setup and the surrounding structures (left) with their heights relative to the bottom of the measurement terrace. Aerial image of the Sonnblick Observatory (right).}
+ \label{fig:SetUp}
+\end{figure}
+
+\begin{figure}[t]
+ \centering
+ 	\includegraphics[width=6cm]{tower.png}
+ \caption{Set up of the elevator with the holographic imager HOLIMO mounted to the meteorological tower at the SBO. The red lines and numbers indicate the five different heights where the elevator was positioned repeatedly to obtain vertical profiles of the ICNC. The reference height of 0.0\,\si{m} is the bottom of the measurement platform (green line).}
+ \label{fig:Elevator}
+\end{figure}
+
+\begin{figure}[t]
+ \centering
+ 	\includegraphics[width=14cm]{MeteoOvervire_0402.png}
+ \caption{Overview of the meteorological conditions on 4 February obtained from the SBO measurements. Shown are the temperature, relative humidity (top), wind speed (second from top) and wind direction (second from bottom). All measurements are 1\,\si{min} averages except for the maximum wind speed, which corresponds to the maximum wind speed observed during a corresponding 1\,\si{min} average. Grey and blue shaded areas represent time with measurement (see Fig. \ref{fig:profiles0402}) when the SBO was in cloud, respectively not in cloud. A wind rose plot (bottom) of the wind measurement is also shown. }
+ \label{fig:meteo0402}
+\end{figure}
+
+\begin{figure}[t]
+ \centering
+ 	\includegraphics[width=14cm]{MeteoOverview_1702.png}
+ \caption{Overview on the meteorological conditions on 17 February for the time interval when measurements exist (see Fig. \ref{fig:profiles1702}). On this day temperature and wind measurements are available from the SBO and the 3D Sonic Anemometer. Shown are the temperature and relative humidity (top), wind direction (second from top), a comparison of the horizontal wind speed (middle) and detailed wind speed measurements from the 3D Sonic Anemometer (second from bottom). A windrose plot is shown in the bottom panel.}
+ \label{fig:meteo1702}
+\end{figure}
+
+\begin{figure}[t]
+ \centering
+ 	\includegraphics[width=8cm]{0402_Total.png}
+ \caption{ICNC as a function of the height of the elevator at the meteorological tower of the SBO. This plot is a summary of the 24 profiles obtained on 4 February. The data was averaged over the entire time period of single measurements at the different height. The number in brackets is is the number of concentration measurements per height. For each box, the central line marks the median value of the measurement and the left and right edges of the box represent 25th and the 75th percentiles respectively. The whiskers extend to minimum and maximum of the data; outliers are marked as red pluses. The mean value of the measurements is indicated as a blue circle.}
+ \label{fig:Total0402}
+\end{figure}
+
+\begin{figure}[t]
+ \centering
+ 	\includegraphics[width=14cm]{0402_Overview.png}
+ \caption{ICNCs as a function of height of the elevator for four different time intervals during 4 February, representing different conditions (Fig. \ref{fig:meteo0402}). On the individual profiles (left), the circles indicate the mean value averaged over the entire time interval. The error bars represent the standard error of the mean. The shaded area extends from the minimum to the maximum of the measured ICNC. As in Fig. \ref{fig:Total0402} only for the four time intervals the box plots (right) show a summary of the data.}
+ \label{fig:profiles0402}
+\end{figure}
+
+\begin{figure}[t]
+ \centering
+ 	\includegraphics[width=14cm]{0402_OverviewWS.png}
+ \caption{As Figure \ref{fig:Total0402} only ICNC as a function of horizontal wind speed for the the time periods between 0830 and 1500 UTC when the wind direction was West-Southwest (top) and between 1910 and 2200 UTC when the wind direction was North (bottom). The wind speed is the maximum wind speed in one minute time intervals from the SBO.}
+ \label{fig:ICNCvsWSMAX0402}
+\end{figure}
+
+\begin{figure}[t]
+ \centering
+ 	\includegraphics[width=14cm]{1702_Overview.png}
+ \caption{Ice crystal number concentration as a function of the height of the elevator at the meteorological tower of the SBO for 17 February. On the left are the three individual profiles obtained in cloud. The circles indicate the mean value averaged over the entire time interval. The error bars represent the standard error of the mean. The shaded area indicates the variability of the data and extends from the minimum to the maximum when the data is averaged over 50 holograms. For the summary of the different time intervals (right) the data is averaged over 50 holograms. For each box, the central line marks the median value of the measurement and the left and right edges of the box represent 25th and the 75th percentiles respectively. The whiskers extend to minimum and maximum of the data; outliers are marked as red pluses.}
+ \label{fig:profiles1702}
+\end{figure}
+
+\begin{figure}[t]
+ \centering
+ 	\includegraphics[width=14cm]{1702_OverviewWS.png}
+ \caption{As Figure \ref{fig:ICNCvsWSMAX0402} only for 17 February and four different wind speed measurements: a) one minute averages of the horizontal wind speed from the SBO, b) maximum wind speed of the a corresponding time interval in a), c) secondly averages of the horizontal wind speed and d) secondly average of the vertical wind speed both from the 3D Sonic Anemometer.}
+ \label{fig:ICNCvsWind1702}
+\end{figure}
+
+\begin{figure}[t]
+ \centering
+ 	\includegraphics[width=14cm]{1702_habitsHeight.png}
+ \caption{Vertical profiles of the concentration (left) and the relative importance (right) of the subclassified ice crystal habits: regular, irregular and aggregates. For the relative importance the number of ice crystals of different habits were divided by the total number of ice crystals. For theses plots the data as averaged over 50 holograms. In both cases the circles represent the mean of the 50 hologram averages. The error bars represent the standard error of the mean. }
+ \label{fig:profilesHabits1702}
+\end{figure}
+
+\begin{figure}[t]
+ \centering
+ 	\includegraphics[width=14cm]{1702_habitswWS.png}
+ \caption{As Figure \ref{fig:ICNCvsWSMAX0402} only for 17 February and the ICNC of different ice crystal habits as a function of the vertical wind speed.}
+ \label{fig:ICNCvsWindHabits1702}
+\end{figure}
+
+\begin{figure}[t]
+ \centering
+ 	\includegraphics[width=14cm]{1702_habitswSpectrum.png}
+ \caption{Size distribution of the irregular (left) and regular (right) ice crystals observed on 17 February as a function of height. The errorbars represent the standard error of the mean.}
+ \label{fig:spectrum17}
+\end{figure}
+
+\begin{figure}[t]
+ \centering
+ 	\includegraphics[width=14cm]{gammaPDF.png}
+ \caption{Probability distribution of the particle diameter for regular (left) and irregular (right) ice crystals measured on 17 February. The red line indicates the result of the fit of the two parameter gamma-pdf from equation (1).}
+ \label{fig:gammaPDF}
+\end{figure}
+
+\begin{figure}[t]
+ \centering
+ 	\includegraphics[width=14cm]{MeanShape.png}
+ \caption{Profiles of the mean diameter (left) and the shape parameter (right) of the two parameter gamma-pdf (Eq. (1)) plotted as a function of height.}
+ \label{fig:shapeFactor}
+\end{figure}
+
+
+
+%Text here ===>>>
+
+%%
+
+%  Numbered lines in equations:
+%  To add line numbers to lines in equations,
+%  \begin{linenomath*}
+%  \begin{equation}
+%  \end{equation}
+%  \end{linenomath*}
+
+
+
+%% Enter Figures and Tables near as possible to where they are first mentioned:
+%
+% DO NOT USE \psfrag or \subfigure commands.
+%
+% Figure captions go below the figure.
+% Table titles go above tables;  other caption information
+%  should be placed in last line of the table, using
+% \multicolumn2l{$^a$ This is a table note.}
+%
+%----------------
+% EXAMPLE FIGURE
+%
+% \begin{figure}[h]
+% \centering
+% when using pdflatex, use pdf file:
+% \includegraphics[width=20pc]{figsamp.pdf}
+%
+% when using dvips, use .eps file:
+% \includegraphics[width=20pc]{figsamp.eps}
+%
+% \caption{Short caption}
+% \label{figone}
+%  \end{figure}
+%
+% ---------------
+% EXAMPLE TABLE
+%
+% \begin{table}
+% \caption{Time of the Transition Between Phase 1 and Phase 2$^{a}$}
+% \centering
+% \begin{tabular}{l c}
+% \hline
+%  Run  & Time (min)  \\
+% \hline
+%   $l1$  & 260   \\
+%   $l2$  & 300   \\
+%   $l3$  & 340   \\
+%   $h1$  & 270   \\
+%   $h2$  & 250   \\
+%   $h3$  & 380   \\
+%   $r1$  & 370   \\
+%   $r2$  & 390   \\
+% \hline
+% \multicolumn{2}{l}{$^{a}$Footnote text here.}
+% \end{tabular}
+% \end{table}
+
+%% SIDEWAYS FIGURE and TABLE 
+% AGU prefers the use of {sidewaystable} over {landscapetable} as it causes fewer problems.
+%
+% \begin{sidewaysfigure}
+% \includegraphics[width=20pc]{figsamp}
+% \caption{caption here}
+% \label{newfig}
+% \end{sidewaysfigure}
+% 
+%  \begin{sidewaystable}
+%  \caption{Caption here}
+% \label{tab:signif_gap_clos}
+%  \begin{tabular}{ccc}
+% one&two&three\\
+% four&five&six
+%  \end{tabular}
+%  \end{sidewaystable}
+
+%% If using numbered lines, please surround equations with \begin{linenomath*}...\end{linenomath*}
+%\begin{linenomath*}
+%\begin{equation}
+%y|{f} \sim g(m, \sigma),
+%\end{equation}
+%\end{linenomath*}
+
+%%% End of body of article
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Optional Appendix goes here
+%
+% The \appendix command resets counters and redefines section heads
+%
+% After typing \appendix
+%
+%\section{Here Is Appendix Title}
+% will show
+% A: Here Is Appendix Title
+%
+%\appendix
+%\section{Here is a sample appendix}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Optional Glossary, Notation or Acronym section goes here:
+%
+%%%%%%%%%%%%%%  
+% Glossary is only allowed in Reviews of Geophysics
+%  \begin{glossary}
+%  \term{Term}
+%   Term Definition here
+%  \term{Term}
+%   Term Definition here
+%  \term{Term}
+%   Term Definition here
+%  \end{glossary}
+
+%
+%%%%%%%%%%%%%%
+% Acronyms
+
+ 
+
+%
+%%%%%%%%%%%%%%
+% Notation 
+%   \begin{notation}
+%   \notation{$a+b$} Notation Definition here
+%   \notation{$e=mc^2$} 
+%   Equation in German-born physicist Albert Einstein's theory of special
+%  relativity that showed that the increased relativistic mass ($m$) of a
+%  body comes from the energy of motion of the bodyâ€”that is, its kinetic
+%  energy ($E$)â€”divided by the speed of light squared ($c^2$).
+%   \end{notation}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%  ACKNOWLEDGMENTS
+%
+% The acknowledgments must list:
+%
+% â€¢	All funding sources related to this work from all authors
+%
+% â€¢	Any real or perceived financial conflicts of interests for any
+%	author
+%
+% â€¢	Other affiliations for any author that may be perceived as
+% 	having a conflict of interest with respect to the results of this
+% 	paper.
+%
+% â€¢	A statement that indicates to the reader where the data
+% 	supporting the conclusions can be obtained (for example, in the
+% 	references, tables, supporting information, and other databases).
+%
+% It is also the appropriate place to thank colleagues and other contributors. 
+% AGU does not normally allow dedications.
+
+
+
+
+%% ------------------------------------------------------------------------ %%
+%% Citations
+
+% Please use ONLY \citet and \citep for reference citations.
+% DO NOT use other cite commands (e.g., \cite, \citeyear, \nocite, \citealp, etc.).
+
+
+%% Example \citet and \citep:
+%  ...as shown by \citet{Boug10}, \citet{Buiz07}, \citet{Fra10},
+%  \citet{Ghel00}, and \citet{Leit74}. 
+
+%  ...as shown by \citep{Boug10}, \citep{Buiz07}, \citep{Fra10},
+%  \citep{Ghel00, Leit74}. 
+
+%  ...has been shown \citep [e.g.,][]{Boug10,Buiz07,Fra10}.
+
+
+
+%%  REFERENCE LIST AND TEXT CITATIONS
+%
+% Either type in your references using
+%
+% \begin{thebibliography}{}
+% \bibitem[{\textit{Kobayashi et~al.}}(2003)]{R2013} Kobayashi, T.,
+% Tran, A.~H., Nishijo, H., Ono, T., and Matsumoto, G.  (2003).
+% Contribution of hippocampal place cell activity to learning and
+% formation of goal-directed navigation in rats. \textit{Neuroscience}
+% 117, 1025--1035.
+%
+% \bibitem{}
+% Text
+% \end{thebibliography}
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Or, to use BibTeX:
+%
+% Follow these steps
+%
+% 1. Type in \bibliography{<name of your .bib file>} 
+%    Run LaTeX on your LaTeX file.
+%
+% 2. Run BiBTeX on your LaTeX file.
+%
+% 3. Open the new .bbl file containing the reference list and
+%   copy all the contents into your LaTeX file here.
+%
+% 4. Run LaTeX on your new file which will produce the citations.
+%
+% AGU does not want a .bib or a .bbl file. Please copy in the contents of your .bbl file here.
+
+
+%% After you run BibTeX, Copy in the contents of the .bbl file here:
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Track Changes:
+% To add words, \added{<word added>}
+% To delete words, \deleted{<word deleted>}
+% To replace words, \replace{<word to be replaced>}{<replacement word>}
+% To explain why change was made: \explain{<explanation>} This will put
+% a comment into the right margin.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% At the end of the document, use \listofchanges, which will list the
+% changes and the page and line number where the change was made.
+
+% When final version, \listofchanges will not produce anything,
+% \added{<word or words>} word will be printed, \deleted{<word or words} will take away the word,
+% \replaced{<delete this word>}{<replace with this word>} will print only the replacement word.
+%  In the final version, \explain will not print anything.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%
+\listofchanges
+%%%
+
+\end{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Supporting Information
+%% (Optional) See AGUSuppInfoSamp.tex/pdf for requirements 
+%% for Supporting Information.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+More Information and Advice:
+
+%% ------------------------------------------------------------------------ %%
+%
+%  SECTION HEADS
+%
+%% ------------------------------------------------------------------------ %%
+
+% Capitalize the first letter of each word (except for
+% prepositions, conjunctions, and articles that are
+% three or fewer letters).
+
+% AGU follows standard outline style; therefore, there cannot be a section 1 without
+% a section 2, or a section 2.3.1 without a section 2.3.2.
+% Please make sure your section numbers are balanced.
+% ---------------
+% Level 1 head
+%
+% Use the \section{} command to identify level 1 heads;
+% type the appropriate head wording between the curly
+% brackets, as shown below.
+%
+%An example:
+%\section{Level 1 Head: Introduction}
+%
+% ---------------
+% Level 2 head
+%
+% Use the \subsection{} command to identify level 2 heads.
+%An example:
+%\subsection{Level 2 Head}
+%
+% ---------------
+% Level 3 head
+%
+% Use the \subsubsection{} command to identify level 3 heads
+%An example:
+%\subsubsection{Level 3 Head}
+%
+%---------------
+% Level 4 head
+%
+% Use the \subsubsubsection{} command to identify level 3 heads
+% An example:
+%\subsubsubsection{Level 4 Head} An example.
+%
+%% ------------------------------------------------------------------------ %%
+%
+%  IN-TEXT LISTS
+%
+%% ------------------------------------------------------------------------ %%
+%
+% Do not use bulleted lists; enumerated lists are okay.
+% \begin{enumerate}
+% \item
+% \item
+% \item
+% \end{enumerate}
+%
+%% ------------------------------------------------------------------------ %%
+%
+%  EQUATIONS
+%
+%% ------------------------------------------------------------------------ %%
+
+% Single-line equations are centered.
+% Equation arrays will appear left-aligned.
+
+Math coded inside display math mode \[ ...\]
+ will not be numbered, e.g.,:
+ \[ x^2=y^2 + z^2\]
+
+ Math coded inside \begin{equation} and \end{equation} will
+ be automatically numbered, e.g.,:
+ \begin{equation}
+ x^2=y^2 + z^2
+ \end{equation}
+
+
+% To create multiline equations, use the
+% \begin{eqnarray} and \end{eqnarray} environment
+% as demonstrated below.
+\begin{eqnarray}
+  x_{1} & = & (x - x_{0}) \cos \Theta \nonumber \\
+        && + (y - y_{0}) \sin \Theta  \nonumber \\
+  y_{1} & = & -(x - x_{0}) \sin \Theta \nonumber \\
+        && + (y - y_{0}) \cos \Theta.
+\end{eqnarray}
+
+%If you don't want an equation number, use the star form:
+%\begin{eqnarray*}...\end{eqnarray*}
+
+% Break each line at a sign of operation
+% (+, -, etc.) if possible, with the sign of operation
+% on the new line.
+
+% Indent second and subsequent lines to align with
+% the first character following the equal sign on the
+% first line.
+
+% Use an \hspace{} command to insert horizontal space
+% into your equation if necessary. Place an appropriate
+% unit of measure between the curly braces, e.g.
+% \hspace{1in}; you may have to experiment to achieve
+% the correct amount of space.
+
+
+%% ------------------------------------------------------------------------ %%
+%
+%  EQUATION NUMBERING: COUNTER
+%
+%% ------------------------------------------------------------------------ %%
+
+% You may change equation numbering by resetting
+% the equation counter or by explicitly numbering
+% an equation.
+
+% To explicitly number an equation, type \eqnum{}
+% (with the desired number between the brackets)
+% after the \begin{equation} or \begin{eqnarray}
+% command.  The \eqnum{} command will affect only
+% the equation it appears with; LaTeX will number
+% any equations appearing later in the manuscript
+% according to the equation counter.
+%
+
+% If you have a multiline equation that needs only
+% one equation number, use a \nonumber command in
+% front of the double backslashes (\\) as shown in
+% the multiline equation above.
+
+% If you are using line numbers, remember to surround
+% equations with \begin{linenomath*}...\end{linenomath*}
+
+%  To add line numbers to lines in equations:
+%  \begin{linenomath*}
+%  \begin{equation}
+%  \end{equation}
+%  \end{linenomath*}
+
+
+
