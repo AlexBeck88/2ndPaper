@@ -1,4 +1,4 @@
-\begin{thebibliography}{26}
+\begin{thebibliography}{27}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
@@ -76,6 +76,14 @@ Gultepe, I., G.~Isaac, and S.~Cober (2001), Ice crystal number concentration
 Hallet, J., and S.~Mossop (1974), Production of secondary ice particles during
   the riming process, \textit{Nature}, \textit{249}, 26--28,
   \doi{10.1038/249026a0}.
+
+\bibitem[{\textit{Hammer et~al.}(2014)\textit{Hammer, Bukowiecki, Gysel,
+  Jur\'anyi, Hoyle, Vogt, Baltensperger, and Weingartner}}]{Ham14}
+Hammer, E., N.~Bukowiecki, M.~Gysel, Z.~Jur\'anyi, C.~R. Hoyle, R.~Vogt,
+  U.~Baltensperger, and E.~Weingartner (2014), Investigation of the effective
+  peak supersaturation for liquid-phase clouds at the high-alpine site
+  jungfraujoch, switzerland (3580 m a.s.l.), \textit{Atmospheric Chemistry and
+  Physics}, \textit{14}(2), 1123--1139, \doi{10.5194/acp-14-1123-2014}.
 
 \bibitem[{\textit{Lachlan-Cope et~al.}(2001)\textit{Lachlan-Cope, Ladkin,
   Turner, and Davison}}]{Lac01}

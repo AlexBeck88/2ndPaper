@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.24)  8 MAY 2017 11:12
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.19)  8 MAY 2017 11:08
+>>>>>>> Stashed changes
 entering extended mode
 **./BlowingSnowPaper_v2.tex
 (BlowingSnowPaper_v2.tex
@@ -994,11 +998,15 @@ LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
 (Font)              scaled to size 9.0pt on input line 123.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 9.0pt on input line 156.
+<<<<<<< Updated upstream
  [1{C:/Users/beckal/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 7.3pt on input line 159.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 4.01501pt on input line 159.
+=======
+ [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+>>>>>>> Stashed changes
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.5pt on input line 163.
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <10.5> not available
@@ -1009,15 +1017,21 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 10.0pt on input line 164.
 
+<<<<<<< Updated upstream
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
+=======
+>>>>>>> Stashed changes
 Overfull \hbox (8.8177pt too wide) in paragraph at lines 170--171
 \T1/ntxtlf/m/n/10 been stud-ied ex-ten-sively [\T1/ntxtlf/m/it/10 Geerts et al.
 \T1/ntxtlf/m/n/10 , 2015]. If the pro-posed surface-based ice-enhancement 
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3]
@@ -1030,8 +1044,11 @@ File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.0pt on input line 185.
+<<<<<<< Updated upstream
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 5.5pt on input line 185.
+=======
+>>>>>>> Stashed changes
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1054,12 +1071,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Warning: Reference `Nis05' on page 8 undefined on input line 250.
 
+<<<<<<< Updated upstream
 [8]
+=======
+
+>>>>>>> Stashed changes
 Overfull \hbox (0.17282pt too wide) in paragraph at lines 254--255
 []\T1/ntxtlf/m/n/10 In this case a dif-fer-ent mech-a-nism has to be re-spon-si
 -ble for the de-crease if the ICNC 
  []
 
+<<<<<<< Updated upstream
 
 Underfull \vbox (badness 2134) has occurred while \output is active []
 
@@ -1068,6 +1090,13 @@ Underfull \vbox (badness 2134) has occurred while \output is active []
 Underfull \vbox (badness 3815) has occurred while \output is active []
 
  [10]
+=======
+[8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+(./BlowingSnowPaper_v2.bbl
+>>>>>>> Stashed changes
 Underfull \hbox (badness 2150) in paragraph at lines 103--106
 []\T1/ntxtlf/m/n/10 Lohmann, U. (2002), Pos-si-ble aerosol ef-fects on ice clou
 ds via con-tact nu-cle- 
@@ -1081,6 +1110,9 @@ oi:10.1175/1520-
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
 Underfull \hbox (badness 3861) in paragraph at lines 133--136
 []\T1/ntxtlf/m/n/10 Rogers, D. C., and G. Vali (1987), Ice crys-tal pro-duc-tio
 n by moun-tain sur- 
@@ -1532,6 +1564,7 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< Updated upstream
  16097 strings out of 493334
  304552 string characters out of 3129788
  317985 words of memory out of 3000000
@@ -1559,6 +1592,32 @@ KTeX 2.9/fonts/type1/public/txfonts/txmia.pfb><C:/Users/beckal/AppData/Local/Pr
 ograms/MiKTeX 2.9/fonts/type1/public/newtx/txsys.pfb><C:/Users/beckal/AppData/L
 ocal/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
 Output written on BlowingSnowPaper_v2.pdf (22 pages, 12586952 bytes).
+=======
+ 14593 strings out of 493089
+ 282776 string characters out of 6134841
+ 292479 words of memory out of 5000000
+ 17860 multiletter control sequences out of 15000+600000
+ 131519 words of font info for 154 fonts, out of 8000000 for 9000
+ 1147 hyphenation exceptions out of 8191
+ 41i,10n,39p,10397b,770s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
+exlive/2015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/local/texlive/2
+015/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/local/texlive/2015/texmf
+-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/local/texlive/2015/texmf-dist/
+fonts/type1/public/tex-gyre/qhvr.pfb></usr/local/texlive/2015/texmf-dist/fonts/
+type1/public/tex-gyre/qtmb.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/
+public/tex-gyre/qtmr.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
+/tex-gyre/qtmri.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfo
+nts/rtxmi.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/newtx/rtxm
+i7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/
+local/texlive/2015/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/local/t
+exlive/2015/texmf-dist/fonts/type1/public/txfonts/txmia.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2015/t
+exmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/
+fonts/type1/urw/times/utmri8a.pfb>
+Output written on BlowingSnowPaper_v2.pdf (22 pages, 12564187 bytes).
+>>>>>>> Stashed changes
 PDF statistics:
  147 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
