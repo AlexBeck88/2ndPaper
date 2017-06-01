@@ -1,4 +1,4 @@
-\begin{thebibliography}{27}
+\begin{thebibliography}{30}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
@@ -22,6 +22,14 @@ Baumgardner, D., J.~Brenguier, A.~Bucholtz, H.~Coe, P.~DeMott, T.~Garrett,
 Beck, A., J.~Henneberger, S.~Sch\"opfer, J.~Fugal, and U.~Lohmann (2017),
   Hologondel, \textit{Atmos. Meas. Tech.}
 
+\bibitem[{\textit{Boose et~al.}(2016)\textit{Boose, Welti, Atkinson, Ramelli,
+  Danielczok, Bingemer, Pl\"otze, Sierau, Kanji, and Lohmann}}]{Bos16a}
+Boose, Y., A.~Welti, J.~Atkinson, F.~Ramelli, A.~Danielczok, H.~G. Bingemer,
+  M.~Pl\"otze, B.~Sierau, Z.~A. Kanji, and U.~Lohmann (2016), Heterogeneous ice
+  nucleation on dust particles sourced from nine~deserts worldwide -- part 1:
+  Immersion freezing, \textit{Atmospheric Chemistry and Physics},
+  \textit{16}(23), 15,075--15,095, \doi{10.5194/acp-16-15075-2016}.
+
 \bibitem[{\textit{Bromwich}(1988)}]{Bro88}
 Bromwich, D.~H. (1988), Snowfall in high southern latitudes, \textit{Reviews of
   Geophysics}, \textit{26}(1), 149--168, \doi{10.1029/RG026i001p00149}.
@@ -29,6 +37,16 @@ Bromwich, D.~H. (1988), Snowfall in high southern latitudes, \textit{Reviews of
 \bibitem[{\textit{Budd}(2013)}]{Bud66}
 Budd, W.~F. (2013), \textit{The Drifting of Nonuniform Snow Particles1}, pp.
   59--70, American Geophysical Union, \doi{10.1029/AR009p0059}.
+
+\bibitem[{\textit{DeMott et~al.}(2015)\textit{DeMott, Prenni, McMeeking,
+  Sullivan, Petters, Tobo, Niemand, M\"ohler, Snider, Wang, and
+  Kreidenweis}}]{Dem15}
+DeMott, P.~J., A.~J. Prenni, G.~R. McMeeking, R.~C. Sullivan, M.~D. Petters,
+  Y.~Tobo, M.~Niemand, O.~M\"ohler, J.~R. Snider, Z.~Wang, and S.~M.
+  Kreidenweis (2015), Integrating laboratory and field data to quantify the
+  immersion freezing ice nucleation activity of mineral dust particles,
+  \textit{Atmospheric Chemistry and Physics}, \textit{15}(1), 393--409,
+  \doi{10.5194/acp-15-393-2015}.
 
 \bibitem[{\textit{D\'{e}ry and Yau}(1999)}]{Der99}
 D\'{e}ry, S.~J., and M.~K. Yau (1999), A climatology of adverse winter-type
@@ -111,6 +129,12 @@ Lloyd, G., T.~W. Choularton, K.~N. Bower, M.~W. Gallagher, P.~J. Connolly,
 Lohmann, U. (2002), Possible aerosol effects on ice clouds via contact
   nucleation, \textit{Journal of the Atmospheric Sciences}, \textit{59}(3),
   647--656, \doi{10.1175/1520-0469(2001)059<0647:PAEOIC>2.0.CO;2}.
+
+\bibitem[{\textit{Lohmann et~al.}(2016)\textit{Lohmann, Lüönd, and
+  Mahrt}}]{Loh16}
+Lohmann, U., F.~Lüönd, and F.~Mahrt (2016), \textit{An Introduction to
+  clouds: from the microscale to the climate}, Camebridge University Press,
+  Cambridge, United Kingdom.
 
 \bibitem[{\textit{Mahesh et~al.}(2003)\textit{Mahesh, Eager, Campbell, and
   Spinhirne}}]{Mah03}
